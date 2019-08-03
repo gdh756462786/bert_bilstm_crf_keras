@@ -1,0 +1,10209 @@
+你	O
+好	O
+
+行	O
+吧	O
+
+你	O
+说	O
+了	O
+多	O
+少	O
+钱	O
+呢	O
+?	O
+
+哎	O
+
+哎	O
+
+周	O
+日	O
+呃	O
+
+嗯	O
+
+哦	O
+
+喂	O
+
+嗯	O
+嗯	O
+
+啊	O
+
+喂	O
+
+嗯	O
+
+3	O
+0	O
+
+我	O
+是	O
+这	O
+个	O
+意	O
+思	O
+
+年	O
+前	O
+吗	O
+
+对	O
+
+哎	O
+
+红	O
+框	O
+了	O
+他	O
+吗	O
+?	O
+
+是	O
+吧	O
+
+嗯	O
+
+电	O
+话	O
+
+没	O
+有	O
+
+就	O
+像	O
+银	O
+行	O
+买	O
+
+啊	O
+啊	O
+啊	O
+啊	O
+
+啊	O
+对	O
+对	O
+
+要	O
+那	O
+个	O
+什	O
+么	O
+是	O
+欧	O
+冠	O
+
+石	O
+老	O
+师	O
+钱	O
+好	O
+像	O
+
+啊	O
+
+哦	O
+
+你	O
+好	O
+
+嗯	O
+
+嗯	O
+
+我	O
+尽	O
+快	O
+了	O
+先	O
+挂	O
+了	O
+
+那	O
+没	O
+有	O
+朋	O
+友	O
+干	O
+嘛	O
+呢	O
+?	O
+
+我	O
+一	O
+直	O
+就	O
+等	O
+你	O
+开	O
+试	O
+驾	O
+车	O
+
+嗯	O
+
+下	O
+午	O
+好	O
+
+嗯	O
+
+哦	O
+
+呃	O
+然	O
+
+啊	O
+
+最	O
+近	O
+怎	O
+么	O
+说	O
+呢	O
+?	O
+
+喂	O
+你	O
+好	O
+
+现	O
+在	O
+还	O
+没	O
+定	O
+下	O
+来	O
+。	O
+
+嗯	O
+
+一	O
+
+哦	O
+
+呃	O
+
+行	O
+
+嗯	O
+
+呃	O
+
+哦	O
+
+还	O
+多	O
+呢	O
+
+原	O
+来	O
+
+您	O
+您	O
+您	O
+您	O
+买	O
+车	O
+是	O
+考	O
+虑	O
+两	O
+上	O
+周	O
+买	O
+在	O
+哪	O
+里	O
+买	O
+了	O
+?	O
+
+好	O
+的	O
+
+啊	O
+行	O
+
+这	O
+边	O
+的	O
+话	O
+
+嗯	O
+
+喂	O
+
+您	O
+说	O
+
+到	O
+年	O
+底	O
+啊	O
+
+那	O
+这	O
+样	O
+子	O
+
+六	O
+、	O
+汽	O
+车	O
+我	O
+我	O
+我	O
+我	O
+
+啊	O
+
+哦	O
+
+呃	O
+
+周	O
+期	O
+
+哦	O
+
+好	O
+
+没	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+哦	O
+哦	O
+这	O
+个	O
+这	O
+个	O
+没	O
+有	O
+这	O
+个	O
+没	O
+有	O
+
+嗯	O
+过	O
+
+对	O
+对	O
+对	O
+是	O
+是	O
+是	O
+稍	O
+微	O
+少	O
+了	O
+一	O
+点	O
+
+因	O
+为	O
+裸	O
+车	O
+价	O
+的	O
+话	O
+
+哦	O
+
+啊	O
+
+经	O
+洗	O
+过	O
+了	O
+是	O
+吗	O
+?	O
+
+除	O
+非	O
+只	O
+能	O
+买	O
+那	O
+个	O
+顶	M_BEG
+配	M_END
+是	O
+吧	O
+
+喂	O
+你	O
+好	O
+
+啊	O
+
+但	O
+是	O
+我	O
+现	O
+在	O
+觉	O
+得	O
+就	O
+是	O
+到	O
+现	O
+在	O
+是	O
+不	O
+是	O
+觉	O
+得	O
+现	O
+在	O
+刚	O
+过	O
+完	O
+年	O
+
+没	O
+有	O
+强	O
+制	O
+要	O
+求	O
+
+就	O
+是	O
+你	O
+的	O
+车	O
+子	O
+
+呵	O
+呵	O
+
+看	O
+车	O
+险	O
+好	O
+吧	O
+
+哦	O
+哦	O
+
+嗯	O
+嗯	O
+
+你	O
+要	O
+到	O
+南	O
+站	O
+有	O
+直	O
+达	O
+的	O
+地	O
+铁	O
+西	O
+藏	O
+没	O
+有	O
+西	O
+藏	O
+人	O
+
+嗯	O
+
+喂	O
+你	O
+好	O
+
+啊	O
+
+没	O
+有	O
+
+恭	O
+喜	O
+呀	O
+
+呃	O
+
+那	O
+他	O
+他	O
+开	O
+了	O
+一	O
+个	O
+那	O
+个	O
+
+嗯	O
+
+我	O
+现	O
+在	O
+有	O
+有	O
+限	O
+好	O
+吧	O
+
+哎	O
+
+呃	O
+
+你	O
+好	O
+
+没	O
+超	O
+过	O
+百	O
+啊	O
+
+现	O
+在	O
+的	O
+话	O
+
+周	O
+末	O
+没	O
+来	O
+
+哦	O
+
+对	O
+呀	O
+
+就	O
+是	O
+今	O
+年	O
+新	O
+款	O
+呢	O
+
+对	O
+到	O
+那	O
+天	O
+
+初	O
+三	O
+
+好	O
+嘞	O
+好	O
+嘞	O
+
+啊	O
+
+你	O
+中	O
+控	O
+
+对	O
+不	O
+对	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+行	O
+不	O
+是	O
+你	O
+帮	O
+我	O
+计	O
+算	O
+一	O
+下	O
+
+嗯	O
+
+明	O
+天	O
+你	O
+们	O
+咯	O
+
+您	O
+应	O
+该	O
+离	O
+我	O
+们	O
+近	O
+吧	O
+
+对	O
+也	O
+不	O
+太	O
+清	O
+楚	O
+时	O
+间	O
+了	O
+吗	O
+?	O
+
+喂	O
+
+还	O
+有	O
+5	O
+台	O
+是	O
+那	O
+种	O
+清	O
+透	O
+的	O
+车	O
+子	O
+
+呃	O
+
+哦	O
+
+哦	O
+哦	O
+哦	O
+
+喂	O
+
+嗯	O
+
+啊	O
+
+那	O
+衣	O
+服	O
+没	O
+记	O
+
+喂	O
+您	O
+好	O
+
+你	O
+们	O
+那	O
+个	O
+车	O
+提	O
+交	O
+了	O
+吗	O
+?	O
+
+哎	O
+
+啊	O
+好	O
+
+就	O
+说	O
+我	O
+
+你	O
+说	O
+的	O
+那	O
+个	O
+豪	O
+华	O
+
+哎	O
+
+嗯	O
+行	O
+行	O
+嗯	O
+
+看	O
+下	O
+来	O
+的	O
+话	O
+
+呃	O
+
+嗯	O
+
+喂	O
+
+不	O
+知	O
+道	O
+有	O
+没	O
+有	O
+时	O
+间	O
+
+嗯	O
+好	O
+
+嗯	O
+也	O
+行	O
+
+顺	O
+便	O
+到	O
+时	O
+测	O
+试	O
+
+我	O
+说	O
+我	O
+抢	O
+着	O
+报	O
+价	O
+
+嗯	O
+
+对	O
+哪	O
+位	O
+
+哦	O
+
+现	O
+在	O
+也	O
+讲	O
+不	O
+清	O
+楚	O
+。	O
+
+嗯	O
+
+喂	O
+
+哎	O
+
+可	O
+以	O
+可	O
+以	O
+
+现	O
+在	O
+是	O
+哪	O
+里	O
+来	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+你	O
+想	O
+吧	O
+
+哦	O
+
+哦	O
+
+嗯	O
+嗯	O
+哎	O
+
+嗯	O
+嗯	O
+嗯	O
+
+我	O
+
+啊	O
+
+凤	O
+凰	O
+
+嗯	O
+
+嗯	O
+
+喂	O
+您	O
+好	O
+
+那	O
+齐	O
+了	O
+吗	O
+?	O
+
+再	O
+见	O
+
+对	O
+
+嗯	O
+嗯	O
+
+喂	O
+
+嗯	O
+
+延	O
+庆	O
+县	O
+不	O
+考	O
+虑	O
+买	O
+车	O
+
+嗯	O
+
+啊	O
+
+哦	O
+
+嗯	O
+
+哦	O
+
+哎	O
+
+先	O
+这	O
+个	O
+也	O
+都	O
+有	O
+看	O
+信	O
+息	O
+
+嗯	O
+嗯	O
+
+这	O
+是	O
+这	O
+是	O
+库	O
+存	O
+处	O
+啊	O
+
+呃	O
+
+嗯	O
+说	O
+
+哦	O
+哦	O
+
+添	O
+加	O
+时	O
+间	O
+也	O
+说	O
+不	O
+准	O
+是	O
+吧	O
+
+喂	O
+
+嗯	O
+你	O
+说	O
+
+那	O
+给	O
+优	O
+惠	O
+4	O
+万	O
+
+呃	O
+
+就	O
+带	O
+两	O
+瓶	O
+玻	O
+璃	O
+水	O
+吧	O
+
+嗯	O
+路	O
+了	O
+
+哦	O
+
+嗯	O
+
+我	O
+这	O
+么	O
+忙	O
+吗	O
+
+但	O
+是	O
+
+嗯	O
+
+啊	O
+
+对	O
+对	O
+对	O
+对	O
+
+那	O
+太	O
+太	O
+低	O
+了	O
+
+严	O
+
+是	O
+在	O
+4	O
+0	O
+%	O
+吗	O
+?	O
+
+哦	O
+哦	O
+好	O
+嘞	O
+
+我	O
+刚	O
+刚	O
+给	O
+钱	O
+的	O
+呀	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+
+5	O
+点	O
+半	O
+啊	O
+
+哎	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+在	O
+了	O
+解	O
+一	O
+下	O
+啊	O
+
+哎	O
+
+好	O
+吧	O
+
+哦	O
+
+嗯	O
+
+啊	O
+
+他	O
+当	O
+你	O
+电	O
+话	O
+呢	O
+
+嗯	O
+
+是	O
+不	O
+是	O
+不	O
+能	O
+到	O
+宁	O
+波	O
+的	O
+拍	O
+照	O
+的	O
+?	O
+
+那	O
+我	O
+为	O
+啥	O
+都	O
+干	O
+嘛	O
+的	O
+?	O
+
+这	O
+个	O
+月	O
+
+喂	O
+
+不	O
+你	O
+三	O
+年	O
+不	O
+考	O
+虑	O
+
+哎	O
+好	O
+好	O
+
+很	O
+抱	O
+歉	O
+了	O
+啊	O
+
+中	O
+秋	O
+节	O
+的	O
+时	O
+候	O
+
+嗯	O
+
+唉	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+你	O
+好	O
+
+下	O
+
+哎	O
+
+因	O
+为	O
+他	O
+检	O
+方	O
+没	O
+得	O
+嘛	O
+
+呃	O
+那	O
+
+嗯	O
+2	O
+0	O
+多	O
+不	O
+够	O
+的	O
+l	O
+
+啊	O
+
+我	O
+是	O
+肯	O
+定	O
+要	O
+买	O
+的	O
+
+嗯	O
+行	O
+
+首	O
+付	O
+要	O
+多	O
+少	O
+?	O
+
+嗯	O
+
+然	O
+后	O
+
+不	O
+不	O
+
+啊	O
+
+能	O
+送	O
+送	O
+啥	O
+呀	O
+?	O
+
+叫	O
+安	O
+生	O
+
+嗯	O
+
+喂	O
+
+哎	O
+
+啊	O
+
+嗯	O
+
+嗯	O
+
+您	O
+后	O
+来	O
+变	O
+更	O
+什	O
+么	O
+车	O
+子	O
+
+哎	O
+哎	O
+哎	O
+
+嗯	O
+
+对	O
+
+哦	O
+
+啊	O
+
+奥	B_BEG
+迪	B_END
+q	S_BEG
+5	S_END
+便	O
+宜	O
+呀	O
+
+对	O
+对	O
+对	O
+
+嗯	O
+嗯	O
+对	O
+
+嗯	O
+
+行	O
+吧	O
+
+见	O
+
+我	O
+说	O
+我	O
+买	O
+了	O
+
+先	O
+填	O
+写	O
+知	O
+识	O
+
+不	O
+是	O
+关	O
+键	O
+
+明	O
+天	O
+会	O
+延	O
+后	O
+是	O
+吧	O
+
+对	O
+如	O
+果	O
+说	O
+就	O
+加	O
+你	O
+一	O
+下	O
+
+就	O
+是	O
+中	M_BEG
+东	M_MID
+版	M_END
+的	O
+
+正	O
+好	O
+你	O
+买	O
+了	O
+吧	O
+
+嗯	O
+嗯	O
+
+好	O
+好	O
+好	O
+
+嗯	O
+
+注	O
+册	O
+啦	O
+
+啊	O
+
+嗯	O
+
+好	O
+好	O
+
+哦	O
+
+呃	O
+
+韩	O
+
+基	O
+本	O
+上	O
+就	O
+是	O
+这	O
+样	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+啊	O
+
+好	O
+好	O
+好	O
+
+哎	O
+你	O
+好	O
+
+7	O
+万	O
+是	O
+吗	O
+?	O
+
+车	O
+牌	O
+
+嗯	O
+
+我	O
+就	O
+说	O
+认	O
+识	O
+也	O
+不	O
+是	O
+一	O
+天	O
+两	O
+天	O
+了	O
+
+还	O
+有	O
+个	O
+轮	O
+轮	O
+胎	O
+轮	O
+胎	O
+钢	O
+圈	O
+
+嗯	O
+好	O
+的	O
+
+嗯	O
+
+嗯	O
+
+好	O
+吧	O
+
+然	O
+后	O
+市	O
+区	O
+的	O
+入	M_BEG
+门	M_MID
+版	M_END
+呢	O
+
+哦	O
+
+你	O
+这	O
+么	O
+的	O
+我	O
+
+嗯	O
+
+哎	O
+
+喂	O
+
+哦	O
+
+对	O
+
+亏	O
+的	O
+没	O
+有	O
+
+喂	O
+
+嗯	O
+嗯	O
+
+嗯	O
+之	O
+前	O
+联	O
+系	O
+您	O
+的	O
+芜	O
+湖	O
+佣	O
+兵	O
+
+嗯	O
+好	O
+
+哎	O
+
+收	O
+藏	O
+
+嗯	O
+
+行	O
+了	O
+
+申	O
+请	O
+7	O
+5	O
+9	O
+
+嗯	O
+好	O
+
+嗯	O
+哎	O
+哎	O
+
+嗯	O
+好	O
+
+啊	O
+
+嗯	O
+
+你	O
+忘	O
+了	O
+
+我	O
+
+哦	O
+你	O
+好	O
+
+嗯	O
+
+黄	O
+豆	O
+网	O
+篮	O
+六	O
+合	O
+的	O
+钱	O
+没	O
+去	O
+呢	O
+
+暂	O
+时	O
+不	O
+考	O
+虑	O
+了	O
+是	O
+吧	O
+
+你	O
+好	O
+
+嗯	O
+
+语	O
+文	O
+对	O
+吧	O
+因	O
+因	O
+为	O
+我	O
+可	O
+能	O
+上	O
+班	O
+的	O
+各	O
+个	O
+公	O
+务	O
+
+啊	O
+
+哦	O
+
+我	O
+有	O
+空	O
+就	O
+比	O
+较	O
+方	O
+便	O
+一	O
+点	O
+而	O
+已	O
+。	O
+
+对	O
+
+哦	O
+
+嗯	O
+
+就	O
+就	O
+啥	O
+生	O
+产	O
+站	O
+就	O
+直	O
+接	O
+进	O
+过	O
+来	O
+的	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+啊	O
+
+单	O
+侧	O
+的	O
+罗	O
+斗	O
+的	O
+落	O
+后	O
+的	O
+
+嗯	O
+
+哎	O
+
+呃	O
+
+啊	O
+
+对	O
+
+啊	O
+
+牙	O
+牙	O
+大	O
+了	O
+
+没	O
+事	O
+的	O
+
+当	O
+时	O
+在	O
+那	O
+个	O
+也	O
+是	O
+在	O
+
+嗯	O
+
+到	O
+时	O
+候	O
+差	O
+不	O
+多	O
+的	O
+是	O
+有	O
+没	O
+多	O
+大	O
+
+对	O
+4	O
+2	O
+3	O
+0	O
+后	O
+排	O
+是	O
+小	O
+
+嗯	O
+
+对	O
+是	O
+单	O
+利	O
+还	O
+是	O
+7	O
+x	O
+5	O
+点	O
+呗	O
+
+行	O
+行	O
+行	O
+好	O
+嘞	O
+
+对	O
+呀	O
+
+哎	O
+
+北	S_BEG
+京	S_END
+用	O
+户	O
+有	O
+优	O
+惠	O
+6	O
+5	O
+0	O
+0	O
+0	O
+
+哦	O
+
+嗯	O
+
+箱	O
+子	O
+是	O
+吧	O
+?	O
+
+哎	O
+
+不	O
+过	O
+
+啊	O
+
+没	O
+有	O
+
+嗯	O
+
+今	O
+年	O
+1	O
+1	O
+%	O
+点	O
+呀	O
+
+行	O
+
+所	O
+以	O
+说	O
+在	O
+谈	O
+一	O
+下	O
+行	O
+行	O
+行	O
+
+你	O
+好	O
+
+喂	O
+
+哦	O
+
+哎	O
+
+能	O
+让	O
+这	O
+款	O
+车	O
+指	O
+导	O
+价	O
+3	O
+7	O
+9	O
+8	O
+0	O
+0	O
+
+这	O
+里	O
+
+哦	O
+
+前	O
+天	O
+才	O
+过	O
+年	O
+才	O
+来	O
+农	O
+历	O
+成	O
+长	O
+正	O
+常	O
+高	O
+的	O
+
+嗯	O
+
+好	O
+的	O
+
+啊	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+
+行	O
+啊	O
+
+那	O
+行	O
+吧	O
+
+对	O
+
+哦	O
+
+您	O
+
+哦	O
+
+什	O
+么	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+
+喂	O
+
+哎	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+
+喂	O
+
+您	O
+可	O
+以	O
+看	O
+一	O
+下	O
+明	O
+天	O
+这	O
+边	O
+
+来	O
+算	O
+哦	O
+
+嗯	O
+嗯	O
+
+哦	O
+
+喂	O
+
+哎	O
+
+哦	O
+开	O
+
+薄	O
+款	O
+啊	O
+
+哎	O
+哎	O
+
+喂	O
+哎	O
+
+是	O
+你	O
+说	O
+那	O
+个	O
+配	O
+置	O
+是	O
+什	O
+么	O
+呢	O
+
+嗯	O
+
+嗯	O
+好	O
+
+嗯	O
+
+哎	O
+
+这	O
+是	O
+一	O
+个	O
+大	O
+概	O
+几	O
+的	O
+实	O
+现	O
+
+我	O
+是	O
+买	O
+了	O
+这	O
+个	O
+
+喂	O
+
+哦	O
+
+我	O
+说	O
+了	O
+商	O
+城	O
+
+哎	O
+
+嗯	O
+
+明	O
+白	O
+
+哦	O
+
+哎	O
+
+喂	O
+
+呃	O
+
+不	O
+在	O
+干	O
+的	O
+是	O
+吧	O
+
+啊	O
+
+啊	O
+
+喂	O
+
+那	O
+么	O
+
+啊	O
+啊	O
+啊	O
+我	O
+我	O
+金	O
+金	O
+子	O
+敷	O
+衍	O
+
+好	O
+好	O
+好	O
+
+嗯	O
+
+喂	O
+
+嗯	O
+
+喂	O
+
+行	O
+
+别	B_BEG
+克	B_END
+的	O
+那	O
+个	O
+叫	O
+做	O
+
+嗯	O
+
+对	O
+
+嗯	O
+
+呃	O
+爹	O
+妈	O
+话	O
+等	O
+于	O
+小	O
+轩	O
+郝	O
+伟	O
+斌	O
+呢	O
+
+您	O
+喝	O
+凉	O
+的	O
+星	O
+期	O
+六	O
+星	O
+期	O
+天	O
+又	O
+没	O
+时	O
+间	O
+吗	O
+
+对	O
+
+对	O
+哎	O
+
+对	O
+都	O
+有	O
+
+因	O
+为	O
+它	O
+说	O
+
+您	O
+这	O
+边	O
+打	O
+算	O
+说	O
+
+嗯	O
+
+哦	O
+
+我	O
+
+我	O
+
+行	O
+行	O
+行	O
+好	O
+嘞	O
+了	O
+
+但	O
+您	O
+要	O
+说	O
+的	O
+话	O
+
+好	O
+对	O
+
+那	O
+行	O
+吧	O
+
+说	O
+一	O
+下	O
+就	O
+可	O
+以	O
+了	O
+
+有	O
+我	O
+
+喂	O
+你	O
+好	O
+
+嗯	O
+
+严	O
+医	O
+院	O
+一	O
+天	O
+都	O
+是	O
+5	O
+0	O
+0	O
+元	O
+钱	O
+了	O
+。	O
+
+嗯	O
+
+4	O
+个	O
+
+唉	O
+
+哎	O
+
+啊	O
+
+嗯	O
+
+花	O
+花	O
+
+周	O
+一	O
+
+嗯	O
+其	O
+实	O
+
+8	O
+9	O
+
+哦	O
+
+对	O
+昨	O
+天	O
+都	O
+一	O
+样	O
+吗	O
+?	O
+
+你	O
+哪	O
+位	O
+
+对	O
+我	O
+这	O
+个	O
+我	O
+朋	O
+友	O
+
+嗯	O
+再	O
+见	O
+
+哦	O
+
+在	O
+三	O
+桥	O
+
+好	O
+好	O
+好	O
+
+哦	O
+
+哦	O
+
+嗯	O
+
+非	O
+太	O
+就	O
+说	O
+类	O
+似	O
+太	O
+经	S_BEG
+典	S_END
+了	O
+
+中	O
+年	O
+怀	O
+孕	O
+空	O
+相	O
+当	O
+于	O
+是	O
+5	O
+年	O
+五	O
+年	O
+的	O
+月	O
+还	O
+款	O
+贷	O
+
+哎	O
+
+知	O
+道	O
+今	O
+天	O
+这	O
+笔	O
+
+嗯	O
+
+好	O
+的	O
+
+啊	O
+
+哦	O
+
+嗯	O
+嗯	O
+
+要	O
+不	O
+你	O
+明	O
+天	O
+就	O
+来	O
+吧	O
+
+不	O
+是	O
+问	O
+题	O
+
+哎	O
+
+你	O
+跟	O
+你	O
+说	O
+了	O
+吗	O
+
+不	O
+到	O
+是	O
+他	O
+是	O
+加	M_BEG
+强	M_MID
+版	M_END
+的	O
+意	O
+思	O
+
+好	O
+的	O
+好	O
+
+喂	O
+你	O
+好	O
+
+哦	O
+
+哦	O
+
+他	O
+过	O
+来	O
+
+嗯	O
+
+你	O
+等	O
+下	O
+和	O
+在	O
+那	O
+边	O
+吗	O
+
+对	O
+对	O
+
+好	O
+
+嗯	O
+
+嗯	O
+
+呃	O
+
+嗯	O
+
+呃	O
+
+嗳	O
+徐	O
+先	O
+生	O
+
+喂	O
+
+嗯	O
+
+3	O
+3	O
+万	O
+到	O
+还	O
+可	O
+以	O
+再	O
+谈	O
+是	O
+吧	O
+
+还	O
+没	O
+买	O
+
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+行	O
+了	O
+
+对	O
+就	O
+上	O
+吧	O
+
+嗯	O
+
+喂	O
+你	O
+好	O
+
+到	O
+时	O
+候	O
+
+明	O
+天	O
+明	O
+天	O
+过	O
+了	O
+
+微	O
+信	O
+呐	O
+
+在	O
+深	O
+圳	O
+
+卖	O
+完	O
+没	O
+有	O
+
+就	O
+是	O
+说	O
+我	O
+我	O
+拿	O
+到	O
+手	O
+能	O
+提	O
+到	O
+车	O
+
+喂	O
+
+拜	O
+拜	O
+啊	O
+
+好	O
+的	O
+哎	O
+哎	O
+好	O
+哎	O
+
+对	O
+对	O
+对	O
+
+啊	O
+
+我	O
+现	O
+在	O
+没	O
+有	O
+特	O
+别	O
+不	O
+去	O
+想	O
+喝	O
+的	O
+不	O
+小	O
+
+嗯	O
+嗯	O
+
+先	O
+看	O
+好	O
+孩	O
+子	O
+
+嗯	O
+嗯	O
+
+啊	O
+啊	O
+啊	O
+
+就	O
+是	O
+那	O
+个	O
+圆	O
+圆	O
+的	O
+版	O
+
+然	O
+后	O
+给	O
+我	O
+我	O
+
+喂	O
+
+啊	O
+
+对	O
+您	O
+说	O
+
+喂	O
+你	O
+好	O
+
+那	O
+这	O
+个	O
+嗯	O
+赛	O
+博	O
+
+嗯	O
+
+现	O
+在	O
+我	O
+看	O
+那	O
+款	O
+车	O
+有	O
+什	O
+么	O
+优	O
+惠	O
+吗	O
+
+不	O
+一	O
+定	O
+
+哎	O
+
+好	O
+
+嗯	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+要	O
+的	O
+要	O
+的	O
+
+对	O
+
+黄	O
+山	O
+乐	O
+是	O
+吧	O
+
+就	O
+想	O
+
+比	O
+较	O
+好	O
+
+就	O
+是	O
+
+有	O
+没	O
+有	O
+呃	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+
+我	O
+的	O
+
+喂	O
+您	O
+好	O
+
+嗯	O
+
+喂	O
+你	O
+好	O
+
+呃	O
+
+那	O
+现	O
+在	O
+老	O
+款	O
+吗	O
+
+0	O
+2	O
+1	O
+4	O
+我	O
+才	O
+能	O
+回	O
+来	O
+
+嗯	O
+
+哦	O
+
+喂	O
+
+喂	O
+
+喂	O
+
+什	O
+么	O
+叫	O
+吧	O
+
+啊	O
+丽	O
+哎	O
+
+还	O
+要	O
+零	O
+下	O
+1	O
+5	O
+度	O
+啊	O
+
+三	O
+三	O
+点	O
+水	O
+歇	O
+
+哎	O
+
+3	O
+月	O
+份	O
+
+哎	O
+
+呃	O
+
+嗯	O
+
+她	O
+方	O
+便	O
+的	O
+是	O
+吗	O
+
+哦	O
+
+嗯	O
+嗯	O
+
+行	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+嗯	O
+
+好	O
+好	O
+好	O
+好	O
+哎	O
+
+哎	O
+你	O
+好	O
+
+啊	O
+对	O
+
+对	O
+对	O
+对	O
+
+嗯	O
+
+哦	O
+
+要	O
+是	O
+看	O
+好	O
+吃	O
+的	O
+话	O
+
+嗯	O
+
+啊	O
+
+哎	O
+在	O
+没	O
+
+喂	O
+您	O
+好	O
+
+嗯	O
+
+你	O
+好	O
+
+啊	O
+
+呃	O
+
+哦	O
+
+好	O
+呀	O
+
+哦	O
+
+最	O
+强	O
+
+啊	O
+
+嗯	O
+
+天	O
+窗	O
+有	O
+异	O
+响	O
+
+哎	O
+
+哎	O
+
+嘿	O
+嘿	O
+
+对	O
+呀	O
+
+嗯	O
+
+喂	O
+
+哦	O
+
+哎	O
+
+哎	O
+
+但	O
+还	O
+没	O
+蒙	O
+我	O
+了	O
+。	O
+
+呃	O
+昂	O
+
+海	O
+浪	O
+完	O
+了	O
+
+嗯	O
+
+哦	O
+
+那	O
+你	O
+就	O
+说	O
+
+哎	O
+你	O
+好	O
+
+哎	O
+哎	O
+谢	O
+谢	O
+啊	O
+嗯	O
+
+也	O
+要	O
+去	O
+
+您	O
+签	O
+吗	O
+
+关	O
+于	O
+海	O
+螺	O
+要	O
+美	O
+女	O
+
+那	O
+这	O
+样	O
+
+嗯	O
+
+行	O
+好	O
+
+这	O
+边	O
+看	O
+了	O
+一	O
+下	O
+
+好	O
+好	O
+好	O
+
+啊	O
+
+嗯	O
+
+你	O
+
+嗯	O
+
+哎	O
+
+然	O
+后	O
+
+我	O
+当	O
+时	O
+都	O
+跟	O
+您	O
+说	O
+了	O
+吗	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+
+不	O
+是	O
+
+喂	O
+哪	O
+里	O
+
+嗯	O
+
+呃	O
+是	O
+那	O
+个	O
+呃	O
+秋	O
+枫	O
+丽	O
+的	O
+
+喂	O
+
+嗯	O
+
+嗯	O
+
+半	O
+个	O
+小	O
+时	O
+之	O
+后	O
+
+o	O
+k	O
+
+嗯	O
+
+技	O
+术	O
+这	O
+种	O
+算	O
+睡	O
+过	O
+6	O
+8	O
+1	O
+
+再	O
+见	O
+嗯	O
+
+嗯	O
+
+哦	O
+
+京	O
+壁	O
+室	O
+情	O
+况	O
+
+嗯	O
+
+好	O
+行	O
+好	O
+一	O
+个	O
+情	O
+况	O
+
+喂	O
+
+嗯	O
+
+哎	O
+
+到	O
+底	O
+现	O
+嗯	O
+
+哦	O
+还	O
+没	O
+
+哎	O
+
+哎	O
+刘	O
+刘	O
+华	O
+上	O
+面	O
+可	O
+能	O
+会	O
+地	O
+铁	O
+
+想	O
+来	O
+店	O
+看	O
+车	O
+的	O
+话	O
+
+什	O
+么	O
+
+学	O
+习	O
+了	O
+
+你	O
+现	O
+在	O
+还	O
+有	O
+找	O
+到	O
+那	O
+个	O
+修	O
+车	O
+的	O
+人	O
+啊	O
+
+哎	O
+你	O
+好	O
+
+哎	O
+
+下	O
+个	O
+月	O
+还	O
+是	O
+名	O
+字	O
+的	O
+啊	O
+
+嗯	O
+
+嗯	O
+
+怎	O
+么	O
+可	O
+能	O
+这	O
+个	O
+呢	O
+?	O
+
+喂	O
+你	O
+好	O
+
+喂	O
+你	O
+好	O
+
+哎	O
+
+哎	O
+
+哎	O
+对	O
+对	O
+
+价	O
+格	O
+的	O
+话	O
+
+啊	O
+
+嗯	O
+
+3	O
+0	O
+
+还	O
+好	O
+吧	O
+
+嗯	O
+
+啊	O
+
+呃	O
+
+对	O
+我	O
+们	O
+建	O
+议	O
+我	O
+
+海	O
+呀	O
+
+你	O
+好	O
+
+对	O
+
+啊	O
+这	O
+个	O
+
+啊	O
+
+喂	O
+
+什	O
+么	O
+
+什	O
+么	O
+
+行	O
+好	O
+好	O
+谢	O
+谢	O
+好	O
+好	O
+
+回	O
+家	O
+
+嗯	O
+
+喂	O
+
+呃	O
+
+没	O
+有	O
+
+才	O
+能	O
+看	O
+到	O
+他	O
+了	O
+
+是	O
+的	O
+
+那	O
+个	O
+现	O
+在	O
+有	O
+后	O
+吧	O
+
+对	O
+进	O
+进	O
+行	O
+版	O
+的	O
+话	O
+是	O
+呃	O
+
+哦	O
+
+反	O
+正	O
+的	O
+话	O
+
+哦	O
+
+嗯	O
+
+啊	O
+
+嗯	O
+
+这	O
+这	O
+几	O
+座	O
+送	O
+两	O
+年	O
+
+喂	O
+你	O
+好	O
+
+嗯	O
+
+对	O
+
+所	O
+以	O
+我	O
+就	O
+想	O
+问	O
+一	O
+下	O
+
+龙	O
+
+嗯	O
+
+哦	O
+
+无	O
+论	O
+您	O
+全	O
+款	O
+分	O
+期	O
+
+啊	O
+
+嗯	O
+先	O
+生	O
+
+嗯	O
+
+约	O
+的	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+
+3	O
+.	O
+8	O
+万	O
+左	O
+右	O
+。	O
+
+您	O
+
+啊	O
+
+多	O
+少	O
+年	O
+的	O
+车	O
+都	O
+买	O
+了	O
+好	O
+好	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+因	O
+为	O
+它	O
+是	O
+紧	O
+绷	O
+的	O
+
+您	O
+是	O
+在	O
+网	O
+上	O
+咨	O
+询	O
+了	O
+k	O
+m	S_BEG
+3	S_MID
+0	S_END
+
+哦	O
+
+行	O
+
+请	O
+问	O
+下	O
+是	O
+在	O
+那	O
+个	O
+父	O
+亲	O
+呢	O
+
+您	O
+好	O
+
+就	O
+是	O
+那	O
+个	O
+
+好	O
+
+哦	O
+
+对	O
+对	O
+对	O
+
+但	O
+是	O
+问	O
+题	O
+是	O
+你	O
+年	O
+前	O
+以	O
+后	O
+问	O
+了	O
+我	O
+都	O
+是	O
+一	O
+定	O
+的	O
+价	O
+格	O
+呀	O
+。	O
+
+拜	O
+拜	O
+
+哦	O
+
+哎	O
+你	O
+好	O
+
+你	O
+好	O
+
+对	O
+
+说	O
+
+喂	O
+
+抱	O
+了	O
+过	O
+来	O
+
+中	O
+铁	O
+简	O
+体	O
+啊	O
+
+嗯	O
+
+嗯	O
+
+对	O
+贷	O
+款	O
+的	O
+话	O
+
+哦	O
+行	O
+
+呃	O
+
+都	O
+行	O
+啊	O
+
+哎	O
+
+然	O
+后	O
+人	O
+家	O
+大	O
+龙	O
+的	O
+要	O
+要	O
+白	C_BEG
+的	C_END
+蓝	C_BEG
+的	C_END
+
+哦	O
+
+哦	O
+
+好	O
+嘞	O
+好	O
+嘞	O
+
+啊	O
+啊	O
+
+你	O
+好	O
+
+哦	O
+
+那	O
+都	O
+可	O
+以	O
+
+行	O
+
+啊	O
+
+不	O
+是	O
+展	O
+车	O
+
+啊	O
+
+嗯	O
+好	O
+好	O
+
+你	O
+好	O
+
+哎	O
+
+哪	O
+里	O
+
+4	O
+3	O
+4	O
+2	O
+8	O
+
+1	O
+9	O
+年	O
+的	O
+车	O
+牌	O
+
+哦	O
+
+哎	O
+喂	O
+
+哦	O
+
+嗯	O
+
+好	O
+吧	O
+
+对	O
+建	O
+议	O
+您	O
+这	O
+边	O
+是	O
+到	O
+店	O
+过	O
+来	O
+谈	O
+
+嗯	O
+然	O
+后	O
+再	O
+说	O
+吧	O
+
+我	O
+买	O
+了	O
+买	O
+了	O
+我	O
+马	O
+上	O
+呢	O
+
+然	O
+后	O
+
+还	O
+有	O
+美	O
+女	O
+那	O
+边	O
+那	O
+个	O
+报	O
+价	O
+
+我	O
+
+我	O
+都	O
+都	O
+不	O
+是	O
+
+打	O
+电	O
+话	O
+了	O
+
+呃	O
+
+昌	O
+平	O
+区	O
+和	O
+是	O
+和	O
+洗	O
+车	O
+了	O
+
+您	O
+这	O
+边	O
+什	O
+么	O
+时	O
+间	O
+购	O
+车	O
+?	O
+
+我	O
+我	O
+我	O
+问	O
+哪	O
+一	O
+块	O
+?	O
+
+哦	O
+好	O
+
+嗯	O
+
+呃	O
+
+对	O
+
+打	O
+打	O
+电	O
+话	O
+
+哎	O
+就	O
+是	O
+
+嗯	O
+
+好	O
+
+3	O
+月	O
+份	O
+就	O
+是	O
+那	O
+2	O
+月	O
+份	O
+
+q	O
+不	O
+是	O
+5	O
+0	O
+7	O
+的	O
+销	O
+售	O
+情	O
+况	O
+
+我	O
+没	O
+有	O
+时	O
+间	O
+的	O
+话	O
+
+哎	O
+
+得	O
+有	O
+可	O
+嗯	O
+
+嗯	O
+
+呃	O
+
+嗯	O
+
+吃	O
+饭	O
+啊	O
+
+嗯	O
+
+您	O
+好	O
+
+嗯	O
+
+哦	O
+好	O
+
+今	O
+年	O
+吗	O
+
+喂	O
+
+和	O
+他	O
+平	O
+时	O
+一	O
+个	O
+月	O
+回	O
+去	O
+
+啊	O
+那	O
+好	O
+
+就	O
+就	O
+是	O
+说	O
+
+哎	O
+
+喂	O
+你	O
+好	O
+
+现	O
+在	O
+还	O
+可	O
+以	O
+吧	O
+
+哦	O
+
+嗯	O
+对	O
+
+喂	O
+
+确	O
+认	O
+就	O
+是	O
+5	O
+0	O
+吗	O
+?	O
+
+谁	O
+
+哈	O
+哈	O
+
+现	O
+在	O
+那	O
+个	O
+就	O
+没	O
+看	O
+好	O
+像	O
+这	O
+个	O
+是	O
+白	O
+天	O
+分	O
+析	O
+吧	O
+
+2	O
+
+哎	O
+
+行	O
+吧	O
+
+哎	O
+
+啊	O
+
+诶	O
+
+哪	O
+里	O
+
+对	O
+呀	O
+
+哦	O
+
+哦	O
+
+买	O
+的	O
+什	O
+么	O
+车	O
+呀	O
+
+有	O
+有	O
+有	O
+的	O
+
+哎	O
+
+那	O
+个	O
+车	O
+没	O
+有	O
+
+哦	O
+那	O
+
+嗯	O
+
+好	O
+啊	O
+
+白	O
+颜	O
+色	O
+
+精	O
+英	O
+吧	O
+
+嗯	O
+
+嗯	O
+
+呃	O
+
+全	O
+款	O
+的	O
+话	O
+
+好	O
+嘞	O
+
+好	O
+
+哦	O
+
+好	O
+的	O
+
+嗯	O
+
+那	O
+这	O
+个	O
+价	O
+格	O
+的	O
+话	O
+
+啊	O
+
+啊	O
+
+嗯	O
+
+哦	O
+
+行	O
+行	O
+可	O
+以	O
+可	O
+以	O
+没	O
+问	O
+题	O
+
+嗯	O
+
+还	O
+没	O
+有	O
+还	O
+早	O
+嘞	O
+
+啊	O
+
+很	O
+喜	O
+欢	O
+
+四	O
+是	O
+吧	O
+
+我	O
+这	O
+边	O
+点	O
+了	O
+那	O
+个	O
+
+屌	O
+的	O
+嘛	O
+
+呃	O
+
+好	O
+
+想	O
+过	O
+三	O
+个	O
+的	O
+不	O
+要	O
+想	O
+着	O
+回	O
+我	O
+闪	O
+过	O
+三	O
+个	O
+额	O
+度	O
+
+啊	O
+
+嗯	O
+嗯	O
+
+是	O
+啊	O
+
+好	O
+行	O
+好	O
+的	O
+
+有	O
+个	O
+星	O
+空	O
+蓝	O
+
+嗯	O
+
+刚	O
+开	O
+始	O
+的	O
+时	O
+候	O
+
+唉	O
+
+我	O
+认	O
+识	O
+认	O
+识	O
+你	O
+发	S_BEG
+现	S_END
+
+呃	O
+
+还	O
+还	O
+不	O
+能	O
+确	O
+定	O
+是	O
+吧	O
+
+嗯	O
+
+那	O
+那	O
+行	O
+吧	O
+
+你	O
+讲	O
+对	O
+对	O
+对	O
+
+用	O
+用	O
+你	O
+好	O
+
+嗯	O
+
+哎	O
+你	O
+好	O
+
+哦	O
+
+检	O
+验	O
+员	O
+这	O
+个	O
+钱	O
+
+嗯	O
+
+还	O
+没	O
+考	O
+虑	O
+呢	O
+
+有	O
+活	O
+动	O
+
+哦	O
+
+嗯	O
+
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+4	O
+s	O
+店	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+就	O
+是	O
+
+嗯	O
+
+呃	O
+
+嗯	O
+
+嗯	O
+对	O
+
+我	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+呃	O
+
+哪	O
+里	O
+
+刘	O
+浩	O
+大	O
+概	O
+在	O
+嗯	O
+
+哦	O
+
+哦	O
+
+嗯	O
+行	O
+
+你	O
+会	O
+否	O
+哈	O
+他	O
+
+哦	O
+
+哎	O
+
+哦	O
+
+喂	O
+
+我	O
+要	O
+关	O
+掉	O
+
+嗯	O
+
+性	O
+感	O
+
+对	O
+对	O
+对	O
+
+嗯	O
+
+哎	O
+
+看	O
+集	O
+团	O
+正	O
+在	O
+对	O
+比	O
+对	O
+。	O
+
+哎	O
+
+嗯	O
+行	O
+
+对	O
+
+只	O
+是	O
+车	O
+展	O
+上	O
+看	O
+过	O
+
+嗯	O
+好	O
+行	O
+
+2	E_BEG
+.	E_MID
+0	E_END
+的	O
+车	O
+
+我	O
+还	O
+没	O
+定	O
+呢	O
+
+哎	O
+
+嗯	O
+
+嗯	O
+
+嗯	O
+
+我	O
+看	O
+你	O
+那	O
+个	O
+酷	S_BEG
+派	S_END
+
+嗯	O
+q	O
+q	O
+0	O
+
+哈	O
+哈	O
+哈	O
+
+哦	O
+
+喂	O
+
+还	O
+没	O
+定	O
+呢	O
+
+对	O
+您	O
+过	O
+来	O
+看	O
+看	O
+好	O
+了	O
+
+啊	O
+
+哎	O
+
+呃	O
+
+我	O
+知	O
+道	O
+6	O
+年	O
+后	O
+的	O
+话	O
+
+呃	O
+
+哎	O
+哎	O
+
+你	O
+说	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+尊	O
+敬	O
+的	O
+
+哪	O
+种	O
+从	O
+0	O
+1	O
+号	O
+码	O
+记	O
+?	O
+
+哦	O
+
+哦	O
+
+嗯	O
+
+啊	O
+
+现	O
+在	O
+给	O
+我	O
+的	O
+几	O
+万	O
+块	O
+钱	O
+的	O
+那	O
+个	O
+
+喂	O
+你	O
+好	O
+
+哎	O
+
+那	O
+您	O
+呃	O
+
+好	O
+好	O
+
+嗯	O
+你	O
+好	O
+
+啊	O
+
+那	O
+
+哦	O
+
+日	B_BEG
+产	B_END
+的	O
+
+我	O
+保	O
+有	O
+客	O
+户	O
+
+裸	O
+车	O
+2	O
+2	O
+万	O
+
+你	O
+不	O
+是	O
+说	O
+下	O
+午	O
+来	O
+呃	O
+
+说	O
+不	O
+进	O
+去	O
+
+我	O
+看	O
+到	O
+这	O
+场	O
+轻	O
+易	O
+的	O
+
+您	O
+这	O
+和	O
+接	O
+听	O
+电	O
+话	O
+方	O
+便	O
+吗	O
+?	O
+
+哎	O
+
+不	O
+要	O
+新	O
+嗯	O
+
+哦	O
+
+嗯	O
+
+4	O
+2	O
+万	O
+4	O
+0	O
+了	O
+
+不	O
+是	O
+
+你	O
+们	O
+现	O
+在	O
+有	O
+什	O
+么	O
+颜	O
+色	O
+设	O
+置	O
+的	O
+?	O
+
+对	O
+呀	O
+
+高	M_BEG
+级	M_END
+的	O
+品	O
+牌	O
+效	O
+益	O
+就	O
+是	O
+肯	O
+定	O
+是	O
+要	O
+比	O
+新	O
+费	O
+率	O
+底	O
+色	O
+要	O
+好	O
+一	O
+点	O
+
+金	O
+融	O
+方	O
+案	O
+也	O
+是	O
+都	O
+可	O
+以	O
+的	O
+
+就	O
+2	O
+0	O
+
+那	O
+之	O
+后	O
+
+还	O
+在	O
+考	O
+虑	O
+是	O
+吧	O
+
+哎	O
+
+然	O
+后	O
+嗯	O
+
+嗯	O
+
+一	O
+层	O
+
+说	O
+是	O
+我	O
+们	O
+的	O
+q	S_BEG
+5	S_MID
+0	S_END
+要	O
+设	O
+置	O
+
+基	O
+本	O
+上	O
+就	O
+是	O
+正	O
+月	O
+十	O
+五	O
+之	O
+后	O
+
+对	O
+那	O
+个	O
+车	O
+卖	O
+的	O
+很	O
+少	O
+
+喂	O
+
+别	O
+这	O
+么	O
+给	O
+我	O
+挑	O
+战	O
+了	O
+
+呃	O
+
+后	O
+排	O
+有	O
+点	O
+小	O
+了	O
+。	O
+
+哎	O
+行	O
+行	O
+
+您	O
+好	O
+
+好	O
+吧	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+要	O
+的	O
+要	O
+的	O
+
+嗯	O
+拜	O
+拜	O
+嗯	O
+嗯	O
+
+喂	O
+你	O
+好	O
+
+啊	O
+
+去	O
+年	O
+前	O
+年	O
+都	O
+去	O
+过	O
+一	O
+次	O
+
+啊	O
+
+哦	O
+
+济	O
+阳	O
+版	O
+近	O
+2	O
+0	O
+0	O
+
+你	O
+家	O
+以	O
+前	O
+给	O
+我	O
+打	O
+过	O
+电	O
+话	O
+
+能	O
+不	O
+这	O
+样	O
+
+哎	O
+
+抱	O
+歉	O
+
+嗯	O
+
+哎	O
+
+名	O
+字	O
+
+你	O
+好	O
+
+对	O
+现	O
+在	O
+有	O
+5	O
+万	O
+多	O
+吧	O
+啊	O
+
+哎	O
+
+嗯	O
+嗯	O
+
+喂	O
+
+嗨	O
+
+嗯	O
+
+哦	O
+
+我	O
+不	O
+用	O
+没	O
+有	O
+
+喂	O
+
+昆	O
+山	O
+区	O
+
+啊	O
+
+哎	O
+你	O
+好	O
+
+好	O
+再	O
+见	O
+
+哎	O
+
+嗯	O
+你	O
+
+嗯	O
+
+哦	O
+
+好	O
+转	O
+
+然	O
+后	O
+呢	O
+
+对	O
+
+哦	O
+
+车	O
+牌	O
+的	O
+话	O
+
+呃	O
+
+然	O
+后	O
+1	O
+2	O
+万	O
+左	O
+右	O
+
+9	O
+5	O
+8	O
+9	O
+2	O
+2	O
+
+那	O
+么	O
+8	O
+万	O
+
+你	O
+看	O
+看	O
+哪	O
+有	O
+你	O
+们	O
+店	O
+上	O
+新	O
+优	O
+惠	O
+活	O
+动	O
+
+舒	M_BEG
+适	M_MID
+版	M_END
+啊	O
+
+4	O
+0	O
+的	O
+到	O
+
+好	O
+嘞	O
+好	O
+嘞	O
+
+要	O
+不	O
+干	O
+了	O
+
+您	O
+看	O
+什	O
+么	O
+车	O
+呢	O
+?	O
+
+有	O
+机	O
+会	O
+再	O
+合	O
+作	O
+吗	O
+
+免	O
+息	O
+的	O
+是	O
+吧	O
+
+我	O
+们	O
+呢	O
+
+呃	O
+
+那	O
+这	O
+样	O
+时	O
+间	O
+的	O
+话	O
+
+但	O
+说	O
+
+没	O
+问	O
+题	O
+
+哦	O
+哦	O
+好	O
+再	O
+见	O
+嗯	O
+
+哎	O
+
+对	O
+的	O
+
+好	O
+
+3	O
+月	O
+车	O
+展	O
+
+嗯	O
+
+呃	O
+他	O
+是	O
+
+好	O
+嘞	O
+
+对	O
+对	O
+对	O
+之	O
+前	O
+确	O
+实	O
+有	O
+过	O
+这	O
+样	O
+的	O
+价	O
+格	O
+
+我	O
+一	O
+个	O
+人	O
+看	O
+你	O
+们	O
+那	O
+个	O
+4	O
+s	O
+店	O
+在	O
+什	O
+么	O
+地	O
+方	O
+
+呃	O
+
+哦	O
+
+我	O
+刚	O
+刚	O
+说	O
+
+哦	O
+
+哎	O
+
+我	O
+不	O
+忙	O
+
+开	O
+学	O
+
+好	O
+的	O
+
+3	O
+点	O
+元	O
+直	O
+接	O
+房	O
+
+不	O
+是	O
+
+嗯	O
+
+嗯	O
+
+喂	O
+
+6	O
+万	O
+多	O
+的	O
+有	O
+那	O
+么	O
+多	O
+用	O
+户	O
+合	O
+适	O
+
+还	O
+没	O
+有	O
+还	O
+没	O
+目	O
+前	O
+先	O
+不	O
+考	O
+虑	O
+先	O
+不	O
+考	O
+虑	O
+
+对	O
+呀	O
+
+哦	O
+
+那	O
+肯	O
+定	O
+对	O
+
+嗯	O
+
+嗯	O
+
+品	O
+质	O
+又	O
+好	O
+
+没	O
+事	O
+啊	O
+
+嗯	O
+嗯	O
+
+明	O
+天	O
+我	O
+来	O
+看	O
+眼	O
+睛	O
+的	O
+早	O
+
+喂	O
+
+这	O
+样	O
+子	O
+啊	O
+
+喂	O
+
+陪	O
+5	O
+8	O
+3	O
+广	O
+银	O
+
+嗯	O
+
+好	O
+好	O
+好	O
+
+星	O
+期	O
+有	O
+时	O
+间	O
+来	O
+店	O
+里	O
+看	O
+
+3	O
+0	O
+1	O
+6	O
+
+不	O
+对	O
+
+亲	O
+有	O
+个	O
+数	O
+吗	O
+?	O
+
+请	O
+问	O
+您	O
+现	O
+在	O
+方	O
+便	O
+接	O
+电	O
+话	O
+吗	O
+?	O
+
+我	O
+是	O
+那	O
+个	O
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+4	O
+s	O
+店	O
+的	O
+销	O
+售	O
+顾	O
+问	O
+
+哎	O
+
+来	O
+
+您	O
+好	O
+
+哦	O
+
+9	O
+0	O
+d	O
+k	O
+9	O
+0	O
+
+嗯	O
+
+嗯	O
+
+哦	O
+
+你	O
+这	O
+边	O
+测	O
+试	O
+
+您	O
+好	O
+
+哪	O
+里	O
+呀	O
+
+哦	O
+
+嗯	O
+
+哦	O
+
+喂	O
+
+您	O
+好	O
+
+哦	O
+
+可	O
+能	O
+还	O
+是	O
+想	O
+要	O
+个	O
+两	O
+门	O
+的	O
+
+喂	O
+
+哦	O
+
+有	O
+没	O
+有	O
+计	O
+划	O
+购	O
+买	O
+时	O
+间	O
+
+呦	O
+会	O
+员	O
+专	O
+之	O
+后	O
+的	O
+话	O
+
+我	O
+知	O
+道	O
+我	O
+知	O
+道	O
+我	O
+这	O
+个	O
+我	O
+这	O
+个	O
+网	O
+上	O
+还	O
+比	O
+查	O
+的	O
+比	O
+较	O
+多	O
+。	O
+
+也	O
+许	O
+心	O
+绪	O
+的	O
+
+哦	O
+
+到	O
+底	O
+想	O
+不	O
+想	O
+想	O
+来	O
+
+你	O
+是	O
+这	O
+个	O
+不	O
+敢	O
+打	O
+包	O
+票	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+对	O
+对	O
+因	O
+
+可	O
+以	O
+没	O
+问	O
+题	O
+
+哦	O
+
+啊	O
+
+啊	O
+
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+
+对	O
+如	O
+果	O
+我	O
+会	O
+买	O
+我	O
+选	O
+择	O
+运	O
+费	O
+
+好	O
+嘞	O
+好	O
+嘞	O
+哎	O
+
+两	O
+点	O
+左	O
+右	O
+是	O
+吧	O
+
+哎	O
+
+是	O
+
+只	O
+差	O
+1	O
+万	O
+啊	O
+
+所	O
+以	O
+我	O
+们	O
+还	O
+还	O
+在	O
+啊	O
+
+我	O
+2	E_BEG
+.	E_MID
+0	E_MID
+t	E_END
+的	O
+他	O
+
+那	O
+个	O
+s	L_BEG
+u	L_MID
+v	L_END
+
+嗯	O
+好	O
+那	O
+
+嗯	O
+
+哦	O
+
+要	O
+是	O
+着	O
+急	O
+
+喂	O
+你	O
+好	O
+
+就	O
+是	O
+不	O
+是	O
+p	S_BEG
+l	S_MID
+u	S_MID
+s	S_END
+
+o	O
+k	O
+好	O
+
+7	O
+0	O
+岁	O
+
+嗯	O
+
+最	O
+后	O
+人	O
+
+在	O
+娃	O
+娃	O
+是	O
+吧	O
+
+啊	O
+
+嗯	O
+
+我	O
+现	O
+在	O
+啥	O
+了	O
+
+啊	O
+
+嗯	O
+
+哦	O
+
+那	O
+您	O
+这	O
+里	O
+来	O
+啊	O
+
+哦	O
+
+来	O
+广	O
+营	O
+
+我	O
+在	O
+
+当	O
+情	O
+况	O
+
+喂	O
+
+哎	O
+
+喂	O
+你	O
+好	O
+
+嗯	O
+
+哎	O
+呦	O
+
+喂	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+那	O
+个	O
+您	O
+不	O
+是	O
+想	O
+网	O
+上	O
+了	O
+解	O
+h	O
+k	O
+ 	O
+x	S_BEG
+5	S_MID
+0	S_END
+这	O
+款	O
+车	O
+是	O
+吧	O
+
+嗯	O
+
+关	O
+于	O
+以	O
+后	O
+是	O
+吧	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+
+就	O
+是	O
+今	O
+天	O
+
+哦	O
+
+您	O
+是	O
+在	O
+网	O
+上	O
+咨	O
+询	O
+
+嗯	O
+
+可	O
+以	O
+上	O
+在	O
+线	O
+材	O
+罩	O
+
+哦	O
+
+读	O
+我	O
+的	O
+号	O
+码	O
+呀	O
+
+嗯	O
+
+嗯	O
+
+啊	O
+行	O
+咯	O
+吧	O
+
+嗯	O
+那	O
+
+喂	O
+你	O
+好	O
+
+呃	O
+
+对	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+嗯	O
+嗯	O
+
+哦	O
+
+哦	O
+哦	O
+哦	O
+嗯	O
+嗯	O
+
+行	O
+
+对	O
+订	O
+单	O
+最	O
+近	O
+的	O
+话	O
+
+没	O
+下	O
+
+呃	O
+呃	O
+呃	O
+呃	O
+呃	O
+呃	O
+1	O
+0	O
+到	O
+
+对	O
+对	O
+对	O
+
+嗯	O
+
+我	O
+就	O
+说	O
+嘛	O
+
+不	O
+考	O
+虑	O
+了	O
+
+嗯	O
+
+我	O
+说	O
+那	O
+个	O
+
+哦	O
+
+嗯	O
+
+4	O
+2	O
+来	O
+了	O
+。	O
+
+因	O
+为	O
+现	O
+在	O
+说	O
+白	O
+点	O
+
+喂	O
+哪	O
+里	O
+
+所	O
+以	O
+建	O
+议	O
+
+哦	O
+
+嗯	O
+
+价	O
+格	O
+
+行	O
+那	O
+行	O
+
+我	O
+
+也	O
+就	O
+是	O
+4	O
+0	O
+来	O
+万	O
+呢	O
+
+3	O
+月	O
+初	O
+是	O
+吧	O
+
+好	O
+
+7	O
+8	O
+2	O
+0	O
+
+现	O
+在	O
+还	O
+没	O
+有	O
+什	O
+么	O
+时	O
+间	O
+涨	O
+气	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+啊	O
+先	O
+生	O
+
+对	O
+
+对	O
+
+嗯	O
+
+买	O
+首	O
+付	O
+6	O
+0	O
+%	O
+
+呃	O
+
+对	O
+
+您	O
+好	O
+
+哎	O
+
+你	O
+说	O
+
+保	O
+障	O
+是	O
+他	O
+官	O
+方	O
+那	O
+个	O
+什	O
+么	O
+的	O
+官	O
+方	O
+的	O
+一	O
+个	O
+友	O
+好	O
+
+什	O
+么	O
+
+北	S_BEG
+京	S_END
+福	O
+瑞	O
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+4	O
+s	O
+店	O
+的	O
+只	O
+是	O
+在	O
+网	O
+上	O
+咨	O
+询	O
+过	O
+
+嗯	O
+
+嗯	O
+
+有	O
+都	O
+有	O
+
+他	O
+
+不	O
+是	O
+
+对	O
+不	O
+规	O
+则	O
+的	O
+话	O
+
+哦	O
+
+喂	O
+
+好	O
+好	O
+
+啊	O
+
+好	O
+
+他	O
+要	O
+多	O
+少	O
+钱	O
+裸	O
+车	O
+价	O
+?	O
+
+还	O
+不	O
+确	O
+定	O
+了	O
+
+没	O
+什	O
+么	O
+再	O
+说	O
+吧	O
+
+就	O
+够	O
+呛	O
+
+啊	O
+
+你	O
+好	O
+
+不	O
+要	O
+说	O
+考	O
+虑	O
+价	O
+格	O
+
+嗯	O
+
+有	O
+
+从	O
+中	O
+职	O
+工	O
+公	O
+司	O
+安	O
+排	O
+的	O
+时	O
+间	O
+
+对	O
+
+喂	O
+
+嗯	O
+嗯	O
+
+喂	O
+
+哦	O
+
+好	O
+的	O
+
+嗯	O
+
+嗯	O
+
+嗯	O
+
+呃	O
+
+嗯	O
+
+是	O
+啊	O
+
+啊	O
+
+喂	O
+
+哦	O
+
+呃	O
+
+你	O
+
+你	O
+要	O
+和	O
+男	O
+都	O
+已	O
+经	O
+卖	O
+了	O
+不	O
+多	O
+年	O
+前	O
+那	O
+款	O
+车	O
+出	O
+了	O
+这	O
+样	O
+好	O
+大	O
+
+啊	O
+
+嗯	O
+
+嗯	O
+
+我	O
+在	O
+开	O
+那	O
+个	O
+长	O
+沙	O
+
+你	O
+就	O
+过	O
+来	O
+看	O
+看	O
+呗	O
+到	O
+一	O
+装	O
+到	O
+我	O
+们	O
+这	O
+距	O
+离	O
+都	O
+不	O
+远	O
+
+喂	O
+
+呃	O
+你	O
+好	O
+
+嗯	O
+
+嗯	O
+
+嗯	O
+
+现	O
+在	O
+你	O
+这	O
+边	O
+确	O
+定	O
+下	O
+来	O
+了	O
+之	O
+后	O
+
+哦	O
+
+好	O
+好	O
+好	O
+
+那	O
+个	O
+一	O
+二	O
+线	O
+的	O
+品	O
+牌	O
+之	O
+间	O
+
+哦	O
+
+嗯	O
+萧	O
+山	O
+的	O
+那	O
+呃	O
+
+国	O
+产	O
+车	O
+国	O
+产	O
+车	O
+啊	O
+
+呃	O
+
+嗯	O
+嗯	O
+
+呃	O
+
+哦	O
+
+还	O
+是	O
+定	O
+的	O
+承	O
+认	O
+吗	O
+?	O
+
+哦	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+哎	O
+
+还	O
+在	O
+考	O
+虑	O
+当	O
+中	O
+
+好	O
+
+嗯	O
+
+哎	O
+哎	O
+
+对	O
+
+嗯	O
+嗯	O
+
+对	O
+
+您	O
+好	O
+
+嗯	O
+
+哎	O
+
+不	O
+是	O
+问	O
+你	O
+
+哦	O
+
+哎	O
+
+嗯	O
+
+喂	O
+你	O
+好	O
+
+对	O
+呀	O
+
+嗯	O
+
+因	O
+为	O
+那	O
+个	O
+时	O
+候	O
+
+哎	O
+哎	O
+哎	O
+
+好	O
+嘞	O
+好	O
+嘞	O
+
+啊	O
+
+嗯	O
+
+他	O
+那	O
+个	O
+
+哦	O
+
+哦	O
+
+对	O
+
+好	O
+的	O
+
+哦	O
+
+嗯	O
+您	O
+说	O
+
+喂	O
+
+嗯	O
+
+这	O
+和	O
+没	O
+事	O
+的	O
+那	O
+个	O
+是	O
+要	O
+加	O
+钱	O
+吗	O
+?	O
+
+你	O
+好	O
+
+嗯	O
+
+啊	O
+
+然	O
+后	O
+
+嗯	O
+
+在	O
+普	O
+通	O
+是	O
+吧	O
+
+哎	O
+哎	O
+哎	O
+
+嗯	O
+
+好	O
+的	O
+
+用	O
+用	O
+我	O
+老	O
+公	O
+的	O
+我	O
+
+对	O
+
+嗯	O
+嗯	O
+
+杨	O
+先	O
+生	O
+
+商	O
+谈	O
+一	O
+下	O
+
+要	O
+看	O
+有	O
+没	O
+有	O
+资	O
+源	O
+
+哎	O
+
+好	O
+吧	O
+
+行	O
+到	O
+时	O
+
+啊	O
+那	O
+
+嗯	O
+
+陈	O
+哥	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+对	O
+现	O
+金	O
+优	O
+惠	O
+5	O
+5	O
+0	O
+0	O
+0	O
+
+黑	C_BEG
+色	C_END
+内	O
+饰	O
+
+哎	O
+哪	O
+位	O
+
+哦	O
+
+唉	O
+
+呃	O
+
+好	O
+的	O
+
+喂	O
+
+嗯	O
+
+然	O
+后	O
+
+哦	O
+哦	O
+哦	O
+哦	O
+
+啊	O
+
+谢	O
+谢	O
+了	O
+
+我	O
+最	O
+近	O
+用	O
+那	O
+边	O
+去	O
+出	O
+差	O
+
+嗯	O
+
+哎	O
+
+偶	O
+尔	O
+q	O
+q	O
+数	O
+
+那	O
+好	O
+的	O
+没	O
+事	O
+
+嗯	O
+嗯	O
+对	O
+对	O
+对	O
+
+你	O
+挂	O
+了	O
+咯	O
+
+没	O
+得	O
+
+呃	O
+
+对	O
+对	O
+对	O
+
+你	O
+这	O
+样	O
+嗯	O
+
+呃	O
+
+我	O
+在	O
+半	O
+个	O
+左	O
+右	O
+的	O
+是	O
+吧	O
+
+哦	O
+
+好	O
+谢	O
+谢	O
+
+哦	O
+
+对	O
+都	O
+是	O
+去	O
+年	O
+年	O
+底	O
+的	O
+吧	O
+
+又	O
+商	O
+量	O
+过	O
+吗	O
+?	O
+
+嗯	O
+
+很	O
+少	O
+
+喂	O
+
+新	O
+闻	O
+说	O
+不	O
+卖	O
+的	O
+话	O
+也	O
+玩	O
+过	O
+去	O
+
+我	O
+觉	O
+得	O
+你	O
+可	O
+能	O
+不	O
+相	O
+信	O
+我	O
+
+嗯	O
+
+不	O
+记	O
+得	O
+是	O
+在	O
+
+哎	O
+
+哦	O
+等	O
+等	O
+
+我	O
+说	O
+弄	O
+下	O
+来	O
+家	O
+都	O
+在	O
+3	O
+5	O
+
+但	O
+是	O
+
+好	O
+
+嗯	O
+
+嗯	O
+
+这	O
+样	O
+买	O
+
+没	O
+有	O
+
+哦	O
+
+嗯	O
+
+哦	O
+
+对	O
+
+对	O
+呀	O
+
+对	O
+
+是	O
+
+哦	O
+
+哦	O
+
+哎	O
+
+4	O
+月	O
+份	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+行	O
+两	O
+年	O
+了	O
+
+哦	O
+
+嗯	O
+对	O
+
+最	O
+低	M_BEG
+配	M_END
+舒	M_BEG
+适	M_MID
+版	M_END
+的	O
+话	O
+
+喂	O
+您	O
+好	O
+
+这	O
+是	O
+您	O
+的	O
+自	O
+己	O
+的	O
+4	O
+5	O
+类	O
+、	O
+2	O
+9	O
+万	O
+的	O
+自	O
+营	O
+的	O
+。	O
+
+哦	O
+
+喂	O
+
+啊	O
+
+那	O
+你	O
+这	O
+个	O
+车	O
+的	O
+首	O
+保	O
+的	O
+话	O
+
+嗯	O
+
+哦	O
+好	O
+
+他	O
+下	O
+线	O
+的	O
+
+您	O
+先	O
+忙	O
+他	O
+久	O
+好	O
+吧	O
+
+嗯	O
+
+对	O
+现	O
+在	O
+都	O
+没	O
+现	O
+车	O
+呀	O
+
+分	O
+机	O
+号	O
+
+也	O
+它	O
+最	O
+低	O
+精	M_BEG
+英	M_MID
+版	M_END
+吧	O
+
+过	O
+一	O
+分	O
+钟	O
+。	O
+
+喂	O
+
+啊	O
+
+喂	O
+
+嗯	O
+
+是	O
+王	O
+
+这	O
+个	O
+东	O
+西	O
+
+读	O
+的	O
+
+啊	O
+
+北	S_BEG
+京	S_END
+买	O
+一	O
+套	O
+来	O
+着	O
+
+呃	O
+
+昨	O
+天	O
+加	O
+班	O
+的	O
+
+嗯	O
+
+哦	O
+
+好	O
+再	O
+见	O
+
+车	O
+子	O
+类	O
+似	O
+
+对	O
+
+智	O
+能	O
+买	O
+了	O
+两	O
+句	O
+啊	O
+
+嗯	O
+
+哎	O
+
+啊	O
+
+就	O
+白	C_BEG
+色	C_END
+蓝	C_BEG
+色	C_END
+
+我	O
+不	O
+急	O
+哈	O
+
+喂	O
+
+您	O
+车	O
+子	O
+没	O
+买	O
+了	O
+
+嗯	O
+
+呃	O
+
+嗯	O
+
+我	O
+不	O
+是	O
+不	O
+是	O
+查	O
+错	O
+了	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+哎	O
+
+好	O
+
+啊	O
+
+呃	O
+
+嗯	O
+
+喂	O
+
+嗯	O
+
+还	O
+有	O
+远	O
+程	O
+启	O
+动	O
+什	O
+么	O
+都	O
+有	O
+
+哎	O
+
+我	O
+这	O
+边	O
+是	O
+昆	O
+山	O
+月	O
+份	O
+你	O
+
+在	O
+哪	O
+
+还	O
+不	O
+能	O
+没	O
+考	O
+虑	O
+年	O
+底	O
+的	O
+不	O
+考	O
+虑	O
+坏	O
+死	O
+
+嗯	O
+
+呃	O
+
+嗯	O
+嗯	O
+
+你	O
+好	O
+
+哦	O
+
+嗯	O
+
+哎	O
+哎	O
+
+嗯	O
+
+嗯	O
+
+您	O
+好	O
+
+有	O
+什	O
+么	O
+保	O
+养	O
+的	O
+?	O
+
+它	O
+有	O
+它	O
+也	O
+是	O
+周	O
+末	O
+
+哦	O
+
+希	O
+望	O
+能	O
+帮	O
+助	O
+到	O
+您	O
+
+啊	O
+
+我	O
+看	O
+您	O
+网	O
+上	O
+咨	O
+询	O
+
+孩	O
+子	O
+返	O
+校	O
+啊	O
+妆	O
+的	O
+孩	O
+子	O
+都	O
+返	O
+校	O
+
+4	O
+张	O
+啊	O
+
+对	O
+
+立	O
+即	O
+下	O
+把	O
+东	O
+西	O
+都	O
+
+哦	O
+哈	O
+
+嗯	O
+
+什	O
+么	O
+
+啊	O
+
+打	O
+扰	O
+您	O
+这	O
+边	O
+
+嗯	O
+
+在	O
+用	O
+微	O
+笑	O
+来	O
+的	O
+话	O
+
+下	O
+半	O
+年	O
+是	O
+吧	O
+
+您	O
+现	O
+在	O
+的	O
+话	O
+
+经	O
+理	O
+
+您	O
+是	O
+口	O
+令	O
+年	O
+
+行	O
+啊	O
+
+哎	O
+
+对	O
+
+嗯	O
+
+好	O
+
+对	O
+呀	O
+
+帅	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+2	O
+4	O
+万	O
+就	O
+提	O
+走	O
+了	O
+
+好	O
+的	O
+
+呃	O
+
+什	O
+么	O
+
+哦	O
+q	O
+5	O
+3	O
+是	O
+吧	O
+
+嗯	O
+
+嗯	O
+
+还	O
+记	O
+得	O
+吧	O
+
+嗯	O
+
+他	O
+没	O
+联	O
+系	O
+
+哦	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+语	O
+文	O
+十	O
+八	O
+离	O
+那	O
+个	O
+
+呃	O
+
+反	O
+正	O
+我	O
+就	O
+碰	O
+到	O
+过	O
+这	O
+个	O
+一	O
+个	O
+啊	O
+
+好	O
+的	O
+
+我	O
+听	O
+他	O
+说	O
+要	O
+跟	O
+爱	O
+人	O
+呢	O
+
+你	O
+好	O
+
+我	O
+没	O
+接	O
+到	O
+啊	O
+
+是	O
+啊	O
+
+嗯	O
+
+哎	O
+
+哦	O
+哦	O
+好	O
+好	O
+懂	O
+你	O
+意	O
+思	O
+
+呃	O
+
+亲	O
+我	O
+微	O
+信	O
+急	O
+呀	O
+
+只	O
+考	O
+虑	O
+的	O
+话	O
+
+我	O
+都	O
+不	O
+记	O
+吗	O
+?	O
+
+啊	O
+
+嗯	O
+
+嗯	O
+
+喂	O
+
+嗯	O
+
+喂	O
+你	O
+好	O
+
+我	O
+们	O
+上	O
+次	O
+还	O
+去	O
+看	O
+了	O
+那	O
+个	O
+
+这	O
+个	O
+车	O
+一	O
+直	O
+都	O
+差	O
+不	O
+多	O
+。	O
+
+是	O
+豪	O
+华	O
+虎	O
+
+李	O
+晨	O
+下	O
+午	O
+
+嗯	O
+
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+
+哎	O
+
+嗯	O
+
+嗯	O
+
+喂	O
+
+是	O
+过	O
+完	O
+年	O
+再	O
+说	O
+是	O
+吧	O
+
+嗯	O
+
+嗯	O
+
+不	O
+
+您	O
+好	O
+
+哦	O
+
+啊	O
+
+直	O
+接	O
+念	O
+啊	O
+
+哎	O
+
+我	O
+明	O
+白	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+按	O
+揭	O
+的	O
+话	O
+
+本	O
+来	O
+没	O
+有	O
+到	O
+
+呃	O
+
+你	O
+在	O
+哪	O
+啊	O
+?	O
+
+您	O
+好	O
+
+拜	O
+拜	O
+
+对	O
+呀	O
+
+哎	O
+你	O
+好	O
+
+啊	O
+
+好	O
+的	O
+
+如	O
+果	O
+说	O
+一	O
+直	O
+不	O
+交	O
+钱	O
+的	O
+话	O
+
+对	O
+不	O
+是	O
+不	O
+是	O
+他	O
+这	O
+个	O
+这	O
+个	O
+这	O
+种	O
+通	O
+话	O
+都	O
+行	O
+了	O
+
+嗯	O
+
+喂	O
+
+全	O
+号	O
+在	O
+皇	O
+上	O
+标	O
+下	O
+。	O
+
+对	O
+
+喂	O
+
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+
+我	O
+是	O
+初	O
+七	O
+才	O
+上	O
+班	O
+哦	O
+。	O
+
+啊	O
+
+嗯	O
+
+哦	O
+
+你	O
+只	O
+要	O
+2	O
+7	O
+号	O
+
+哎	O
+呀	O
+
+哦	O
+
+嗯	O
+
+对	O
+
+张	O
+先	O
+生	O
+
+嗯	O
+
+没	O
+有	O
+
+嗯	O
+嗯	O
+
+快	O
+一	O
+半	O
+亏	O
+一	O
+半	O
+
+我	O
+在	O
+吵	O
+
+嗯	O
+
+哦	O
+哦	O
+
+不	O
+知	O
+道	O
+
+喂	O
+你	O
+好	O
+
+嗯	O
+
+也	O
+比	O
+较	O
+忙	O
+的	O
+是	O
+吧	O
+
+等	O
+等	O
+
+高	M_BEG
+配	M_END
+多	O
+少	O
+钱	O
+呢	O
+
+啊	O
+
+就	O
+还	O
+是	O
+那	O
+个	O
+发	O
+动	O
+的	O
+声	O
+音	O
+太	O
+大	O
+了	O
+
+年	O
+前	O
+肯	O
+定	O
+是	O
+来	O
+不	O
+及	O
+的	O
+。	O
+
+喂	O
+
+我	O
+的	O
+
+哎	O
+
+嗯	O
+
+上	O
+半	O
+年	O
+吧	O
+
+男	O
+士	O
+也	O
+可	O
+以	O
+学	O
+呀	O
+
+哎	O
+
+嗯	O
+
+在	O
+再	O
+往	O
+上	O
+看	O
+
+我	O
+现	O
+在	O
+我	O
+没	O
+有	O
+那	O
+啥	O
+
+嗯	O
+
+没	O
+有	O
+
+嗯	O
+
+好	O
+呀	O
+好	O
+呀	O
+
+对	O
+对	O
+对	O
+也	O
+是	O
+有	O
+这	O
+方	O
+面	O
+的	O
+问	O
+题	O
+
+啊	O
+
+针	O
+对	O
+扣	O
+扣	O
+后	O
+期	O
+林	O
+呢	O
+
+好	O
+行	O
+
+没	O
+画	O
+完	O
+都	O
+费	O
+劲	O
+
+我	O
+到	O
+时	O
+候	O
+如	O
+果	O
+那	O
+个	O
+的	O
+话	O
+没	O
+看	O
+懂	O
+
+对	O
+对	O
+对	O
+
+哦	O
+
+他	O
+凭	O
+进	S_BEG
+口	S_END
+
+嗯	O
+嗯	O
+
+就	O
+在	O
+五	O
+昌	O
+路	O
+
+好	O
+行	O
+行	O
+行	O
+
+好	O
+好	O
+好	O
+好	O
+好	O
+好	O
+
+好	O
+好	O
+好	O
+好	O
+好	O
+
+我	O
+免	O
+贵	O
+姓	O
+孙	O
+
+嗯	O
+
+单	O
+参	O
+版	O
+的	O
+话	O
+
+哦	O
+
+保	O
+养	O
+馆	O
+
+嗯	O
+
+2	O
+5	O
+人	O
+的	O
+话	O
+
+喂	O
+
+对	O
+呀	O
+
+我	O
+说	O
+那	O
+一	O
+时	O
+段	O
+话	O
+
+嗯	O
+嗯	O
+行	O
+
+第	O
+一	O
+年	O
+
+是	O
+
+这	O
+边	O
+是	O
+4	O
+s	O
+店	O
+
+哦	O
+哦	O
+
+哎	O
+
+呃	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+看	O
+您	O
+是	O
+想	O
+怎	O
+么	O
+的	O
+
+你	O
+说	O
+
+哦	O
+
+嗯	O
+嗯	O
+
+但	O
+嗯	O
+
+嗯	O
+
+现	O
+在	O
+政	O
+策	O
+还	O
+没	O
+给	O
+我	O
+们	O
+。	O
+
+嗯	O
+
+呃	O
+
+哦	O
+在	O
+
+行	O
+这	O
+边	O
+
+哦	O
+
+我	O
+姓	O
+王	O
+
+啊	O
+
+对	O
+2	O
+3	O
+都	O
+准	O
+
+价	O
+格	O
+太	O
+低	O
+了	O
+
+你	O
+再	O
+给	O
+我	O
+加	O
+点	O
+装	O
+具	O
+行	O
+吗	O
+嗯	O
+
+哎	O
+你	O
+好	O
+
+嗯	O
+
+8	O
+万	O
+
+星	O
+座	O
+的	O
+
+他	O
+跟	O
+我	O
+说	O
+
+就	O
+是	O
+
+因	O
+为	O
+本	O
+来	O
+在	O
+单	O
+位	O
+开	O
+车	O
+呢	O
+
+能	O
+行	O
+吗	O
+呃	O
+
+行	O
+到	O
+到	O
+时	O
+过	O
+来	O
+了	O
+
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+4	O
+s	O
+店	O
+就	O
+是	O
+您	O
+呃	O
+
+童	O
+装	O
+
+大	O
+概	O
+是	O
+几	O
+月	O
+份	O
+呢	O
+?	O
+
+哎	O
+
+不	O
+到	O
+
+哎	O
+
+哼	O
+哼	O
+
+那	O
+行	O
+了	O
+
+两	D_BEG
+驱	D_END
+版	O
+
+据	O
+新	O
+年	O
+好	O
+新	O
+年	O
+好	O
+心	O
+情	O
+好	O
+
+哎	O
+
+五	O
+一	O
+后	O
+呢	O
+
+嗯	O
+
+嗯	O
+
+不	O
+会	O
+
+你	O
+平	O
+时	O
+用	O
+那	O
+个	O
+点	O
+
+做	O
+一	O
+个	O
+虫	O
+
+哦	O
+
+行	O
+行	O
+行	O
+好	O
+嘞	O
+
+这	O
+要	O
+是	O
+今	O
+天	O
+不	O
+要	O
+跟	O
+北	S_BEG
+京	S_END
+海	O
+放	O
+在	O
+一	O
+起	O
+。	O
+
+还	O
+是	O
+4	O
+7	O
+0	O
+0	O
+0	O
+是	O
+吧	O
+
+您	O
+那	O
+个	O
+车	O
+的	O
+话	O
+
+您	O
+买	O
+了	O
+一	O
+个	O
+二	O
+手	O
+的	O
+
+啊	O
+
+嗯	O
+2	O
+4	O
+6	O
+8	O
+5	O
+3	O
+8	O
+
+查	O
+谁	O
+6	O
+年	O
+
+对	O
+你	O
+可	O
+以	O
+在	O
+论	O
+坛	O
+上	O
+各	O
+方	O
+面	O
+
+最	O
+近	O
+自	O
+驾	O
+都	O
+很	O
+好	O
+做	O
+。	O
+
+可	O
+以	O
+升	M_BEG
+级	M_END
+
+喂	O
+
+对	O
+呀	O
+
+对	O
+
+嗯	O
+
+但	O
+是	O
+
+嗯	O
+
+嗯	O
+
+哎	O
+
+我	O
+要	O
+草	O
+你	O
+吧	O
+哈	O
+旗	O
+下	O
+礼	O
+包	O
+对	O
+大	O
+家	O
+都	O
+要	O
+声	O
+音	O
+
+嗯	O
+
+然	O
+后	O
+呢	O
+
+就	O
+说	O
+
+嗯	O
+
+哦	O
+
+哦	O
+
+嗯	O
+
+行	O
+好	O
+的	O
+
+哎	O
+
+豪	O
+华	O
+好	O
+好	O
+好	O
+好	O
+嗯	O
+
+嗯	O
+
+呃	O
+
+喂	O
+
+北	S_BEG
+京	S_END
+北	O
+五	O
+环	O
+来	O
+管	O
+人	O
+
+嗯	O
+
+那	O
+我	O
+过	O
+完	O
+年	O
+跟	O
+您	O
+联	O
+系	O
+吧	O
+
+嗯	O
+
+一	O
+开	O
+始	O
+是	O
+报	O
+了	O
+2	O
+8	O
+的	O
+
+哪	O
+里	O
+
+对	O
+明	O
+天	O
+过	O
+来	O
+
+没	O
+有	O
+
+不	O
+参	O
+加	O
+抽	O
+奖	O
+
+嗯	O
+
+3	O
+6	O
+9	O
+8	O
+0	O
+0	O
+那	O
+优	O
+惠	O
+呢	O
+
+哦	O
+哦	O
+哦	O
+
+不	O
+一	O
+定	O
+
+那	O
+倒	O
+没	O
+有	O
+这	O
+个	O
+
+对	O
+对	O
+对	O
+
+好	O
+的	O
+
+啊	O
+
+哎	O
+
+我	O
+再	O
+帮	O
+你	O
+说	O
+
+哎	O
+
+整	O
+天	O
+买	O
+那	O
+个	O
+到	O
+店	O
+还	O
+可	O
+以	O
+
+哦	O
+
+像	O
+我	O
+老	O
+婆	O
+的	O
+牌	O
+
+对	O
+不	O
+对	O
+
+在	O
+开	O
+会	O
+哦	O
+
+就	O
+是	O
+
+那	O
+您	O
+问	O
+问	O
+三	B_BEG
+菱	B_END
+的	O
+4	O
+s	O
+吗	O
+?	O
+
+博	S_BEG
+瑞	S_END
+
+我	O
+明	O
+天	O
+过	O
+来	O
+
+哎	O
+
+见	O
+
+嗯	O
+嗯	O
+嗯	O
+
+我	O
+说	O
+
+对	O
+
+我	O
+没	O
+有	O
+
+嗯	O
+
+很	O
+有	O
+点	O
+混	O
+动	O
+的	O
+车	O
+
+嗯	O
+
+没	O
+有	O
+啊	O
+
+对	O
+
+喂	O
+你	O
+好	O
+
+我	O
+说	O
+的	O
+跟	O
+医	O
+院	O
+说	O
+已	O
+经	O
+有	O
+会	O
+员	O
+了	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+
+是	O
+那	O
+个	O
+有	O
+有	O
+那	O
+个	O
+4	O
+元	O
+的	O
+吧	O
+
+嗯	O
+
+啊	O
+
+哎	O
+
+3	O
+8	O
+0	O
+0	O
+这	O
+个	O
+
+嗯	O
+
+然	O
+后	O
+
+嗯	O
+
+行	O
+行	O
+行	O
+好	O
+好	O
+
+因	O
+我	O
+不	O
+开	O
+车	O
+
+哦	O
+
+啊	O
+
+我	O
+已	O
+经	O
+够	O
+了	O
+以	O
+前	O
+要	O
+在	O
+你	O
+们	O
+那	O
+购	O
+车	O
+
+嗯	O
+
+不	O
+打	O
+算	O
+
+英	O
+飞	O
+凌	O
+
+电	F_BEG
+动	F_END
+车	O
+比	O
+较	O
+比	O
+较	O
+比	O
+较	O
+
+张	O
+大	O
+平	O
+吗	O
+?	O
+
+喂	O
+
+因	O
+为	O
+马	O
+上	O
+到	O
+几	O
+笔	O
+呢	O
+
+嗯	O
+
+嗯	O
+
+明	O
+天	O
+为	O
+
+没	O
+有	O
+儿	O
+子	O
+发	O
+掉	O
+的	O
+里	O
+边	O
+
+哎	O
+
+好	O
+吧	O
+
+嗯	O
+
+这	O
+哈	O
+
+呃	O
+
+那	O
+个	O
+那	O
+个	O
+你	O
+们	O
+就	O
+是	O
+q	O
+5	O
+美	O
+和	O
+咱	O
+们	O
+的	O
+q	S_BEG
+x	S_MID
+5	S_MID
+0	S_END
+啊	O
+那	O
+那	O
+掏	O
+空	O
+性	O
+
+要	O
+不	O
+说	O
+这	O
+个	O
+
+啊	O
+
+喂	O
+
+啊	O
+
+跳	O
+舞	O
+吗	O
+
+啊	O
+啊	O
+啊	O
+
+那	O
+你	O
+们	O
+优	O
+惠	O
+力	O
+度	O
+大	O
+休	O
+
+哦	O
+
+转	O
+能	O
+够	O
+
+就	O
+下	O
+来	O
+
+啊	O
+你	O
+说	O
+
+喂	O
+
+嗯	O
+嗯	O
+嗯	O
+
+喂	O
+你	O
+好	O
+
+哦	O
+
+嗯	O
+嗯	O
+
+明	O
+白	O
+
+就	O
+是	O
+说	O
+您	O
+现	O
+在	O
+是	O
+要	O
+你	O
+旧	O
+车	O
+卖	O
+掉	O
+
+嗯	O
+
+我	O
+这	O
+里	O
+中	O
+一	O
+个	O
+县	O
+城	O
+
+对	O
+
+哦	O
+
+一	O
+个	O
+优	O
+惠	O
+
+好	O
+好	O
+好	O
+
+嗯	O
+嗯	O
+
+哎	O
+呀	O
+
+就	O
+我	O
+的	O
+
+嗯	O
+
+s	O
+电	O
+脑	O
+模	O
+式	O
+
+嗯	O
+
+哦	O
+
+我	O
+现	O
+在	O
+在	O
+朋	O
+友	O
+点	O
+不	O
+不	O
+方	O
+便	O
+
+嗯	O
+嗯	O
+
+哦	O
+
+嗯	O
+
+星	O
+期	O
+车	O
+型	O
+其	O
+实	O
+
+哎	O
+
+9	O
+.	O
+5	O
+
+没	O
+有	O
+呢	O
+
+哦	O
+
+如	O
+果	O
+这	O
+样	O
+的	O
+话	O
+
+那	O
+你	O
+来	O
+我	O
+这	O
+买	O
+车	O
+
+对	O
+
+应	O
+该	O
+算	O
+是	O
+跨	O
+界	O
+m	O
+t	O
+v	O
+
+好	O
+好	O
+拜	O
+拜	O
+啊	O
+拜	O
+拜	O
+
+哦	O
+
+在	O
+中	O
+越	O
+高	O
+兴	O
+
+嗯	O
+
+喂	O
+
+分	O
+期	O
+的	O
+话	O
+
+打	O
+电	O
+话	O
+
+行	O
+行	O
+行	O
+没	O
+问	O
+题	O
+
+你	O
+是	O
+哪	O
+位	O
+?	O
+
+6	O
+0	O
+啊	O
+
+哎	O
+哎	O
+
+哦	O
+可	O
+以	O
+
+明	O
+白	O
+明	O
+白	O
+
+哎	O
+
+对	O
+
+嗯	O
+
+说	O
+
+是	O
+不	O
+是	O
+人	O
+李	O
+成	O
+蹊	O
+的	O
+间	O
+隔	O
+
+哦	O
+
+啊	O
+
+嗯	O
+你	O
+好	O
+
+我	O
+点	O
+斑	O
+就	O
+是	O
+按	O
+6	O
+点	O
+
+嗯	O
+
+您	O
+好	O
+
+哦	O
+
+干	O
+什	O
+么	O
+
+就	O
+不	O
+要	O
+利	O
+息	O
+啊	O
+
+6	O
+万	O
+的	O
+吃	O
+饭	O
+要	O
+高	M_BEG
+配	M_END
+置	O
+
+啊	O
+
+对	O
+
+王	O
+跟	O
+网	O
+上	O
+价	O
+格	O
+不	O
+?	O
+
+再	O
+见	O
+哦	O
+嗯	O
+嗯	O
+
+书	O
+是	O
+假	O
+
+啊	O
+我	O
+在	O
+
+嗯	O
+
+就	O
+是	O
+啊	O
+
+对	O
+现	O
+在	O
+这	O
+个	O
+优	O
+惠	O
+也	O
+比	O
+较	O
+大	O
+。	O
+
+是	O
+的	O
+
+然	O
+后	O
+呢	O
+
+分	O
+期	O
+
+对	O
+对	O
+对	O
+
+嗯	O
+
+嗯	O
+
+我	O
+去	O
+师	O
+傅	O
+啊	O
+
+嗯	O
+
+那	O
+咱	O
+们	O
+就	O
+是	O
+打	O
+算	O
+打	O
+算	O
+什	O
+么	O
+时	O
+候	O
+买	O
+车	O
+呀	O
+
+嗯	O
+
+文	O
+昌	O
+盛	O
+的	O
+海	O
+大	O
+人	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+嗯	O
+在	O
+啊	O
+
+嗯	O
+这	O
+个	O
+
+还	O
+是	O
+
+喂	O
+
+喂	O
+
+哦	O
+哦	O
+哦	O
+
+您	O
+好	O
+姐	O
+哦	O
+
+你	O
+那	O
+现	O
+在	O
+是	O
+哪	O
+的	O
+呀	O
+?	O
+
+哦	O
+哦	O
+哦	O
+
+嗯	O
+
+专	O
+卖	O
+店	O
+能	O
+
+这	O
+样	O
+
+呃	O
+
+哎	O
+
+好	O
+吧	O
+
+嗯	O
+
+我	O
+明	O
+天	O
+要	O
+出	O
+差	O
+好	O
+啊	O
+
+那	O
+时	O
+间	O
+
+哦	O
+
+全	O
+国	O
+都	O
+能	O
+上	O
+班	O
+
+嗯	O
+
+喂	O
+这	O
+个	O
+
+你	O
+打	O
+开	O
+空	O
+调	O
+
+哦	O
+
+啊	O
+
+好	O
+呀	O
+
+嗯	O
+
+哦	O
+
+对	O
+
+嗯	O
+
+在	O
+轻	O
+伤	O
+的	O
+它	O
+
+全	O
+部	O
+应	O
+该	O
+做	O
+
+嗯	O
+
+嗯	O
+
+对	O
+
+好	O
+好	O
+好	O
+
+对	O
+呀	O
+
+嗯	O
+
+贵	O
+州	O
+的	O
+
+哦	O
+
+哪	O
+种	O
+
+好	O
+吧	O
+哥	O
+
+对	O
+
+我	O
+又	O
+救	O
+车	O
+
+那	O
+个	O
+q	S_BEG
+x	S_MID
+5	S_MID
+0	S_END
+那	O
+种	O
+多	O
+少	O
+钱	O
+?	O
+
+嗯	O
+
+我	O
+叫	O
+王	O
+晨	O
+阳	O
+
+价	O
+格	O
+上	O
+没	O
+有	O
+特	O
+别	O
+合	O
+适	O
+
+哎	O
+
+咱	O
+们	O
+这	O
+段	O
+时	O
+间	O
+
+哦	O
+
+呃	O
+
+哦	O
+
+那	O
+6	O
+0	O
+
+你	O
+看	O
+你	O
+这	O
+边	O
+星	O
+期	O
+六	O
+过	O
+来	O
+
+啊	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+
+我	O
+认	O
+不	O
+认	O
+的	O
+话	O
+
+对	O
+
+男	O
+大	O
+
+啊	O
+
+就	O
+说	O
+
+嗯	O
+
+嗯	O
+
+啊	O
+
+哎	O
+
+嗯	O
+
+您	O
+这	O
+边	O
+做	O
+的	O
+是	O
+肯	O
+定	O
+
+嗯	O
+
+就	O
+物	O
+以	O
+稀	O
+为	O
+贵	O
+呀	O
+
+没	O
+关	O
+系	O
+
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+
+好	O
+好	O
+好	O
+好	O
+
+哦	O
+您	O
+
+嗯	O
+
+是	O
+不	O
+涨	O
+价	O
+了	O
+
+我	O
+是	O
+那	O
+个	O
+北	S_BEG
+京	S_END
+福	O
+瑞	O
+盈	O
+分	O
+期	O
+及	O
+到	O
+
+哎	O
+
+啊	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+哦	O
+
+那	O
+没	O
+有	O
+别	O
+的	O
+附	O
+加	O
+条	O
+件	O
+
+嗯	O
+
+再	O
+见	O
+再	O
+见	O
+
+还	O
+是	O
+一	O
+小	O
+时	O
+间	O
+
+嗯	O
+
+嗯	O
+
+对	O
+因	O
+为	O
+我	O
+们	O
+这	O
+边	O
+那	O
+个	O
+
+啊	O
+
+那	O
+您	O
+到	O
+时	O
+候	O
+可	O
+以	O
+看	O
+一	O
+下	O
+
+喂	O
+
+就	O
+是	O
+嘛	O
+你	O
+
+嗯	O
+那	O
+行	O
+
+嗯	O
+
+啊	O
+
+4	O
+5	O
+天	O
+的	O
+现	O
+在	O
+几	O
+号	O
+
+要	O
+到	O
+年	O
+后	O
+了	O
+
+要	O
+不	O
+我	O
+拖	O
+一	O
+下	O
+
+7	O
+7	O
+3	O
+9	O
+9	O
+1	O
+6	O
+6	O
+
+对	O
+那	O
+边	O
+就	O
+付	O
+多	O
+少	O
+钱	O
+啊	O
+
+嗯	O
+嗯	O
+
+哎	O
+
+嗨	O
+
+对	O
+
+嗯	O
+
+对	O
+3	O
+0	O
+啊	O
+
+两	O
+年	O
+
+哎	O
+
+嗯	O
+嗯	O
+
+我	O
+的	O
+
+行	O
+吧	O
+
+收	O
+到	O
+
+啊	O
+
+你	O
+是	O
+哪	O
+里	O
+的	O
+啊	O
+
+你	O
+好	O
+
+还	O
+是	O
+觉	O
+得	O
+不	O
+太	O
+合	O
+适	O
+
+哦	O
+
+反	O
+正	O
+
+没	O
+问	O
+题	O
+
+嗯	O
+
+好	O
+的	O
+
+还	O
+没	O
+空	O
+好	O
+的	O
+
+都	O
+还	O
+比	O
+我	O
+们	O
+的	O
+很	O
+近	O
+啊	O
+
+出	O
+事	O
+以	O
+后	O
+
+哦	O
+嗯	O
+
+7	O
+秒	O
+7	O
+0	O
+q	S_BEG
+7	S_MID
+0	S_END
+啊	O
+
+你	O
+要	O
+是	O
+这	O
+个	O
+
+喂	O
+
+考	O
+虑	O
+考	O
+虑	O
+吧	O
+
+嗯	O
+
+要	O
+改	M_BEG
+款	M_END
+了	O
+呀	O
+
+哦	O
+
+呃	O
+
+苏	O
+州	O
+是	O
+吧	O
+
+然	O
+后	O
+
+呃	O
+
+凯	B_BEG
+迪	B_MID
+拉	B_MID
+克	B_END
+的	O
+a	O
+c	O
+p	O
+s	O
+
+啊	O
+
+不	O
+记	O
+得	O
+
+不	O
+客	O
+气	O
+
+哎	O
+
+喂	O
+
+嗯	O
+
+嗯	O
+
+嗯	O
+
+您	O
+实	O
+际	O
+拉	O
+了	O
+就	O
+能	O
+交	O
+安	O
+全	O
+
+郭	O
+先	O
+生	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+哦	O
+那	O
+好	O
+
+喂	O
+
+哎	O
+
+已	O
+经	O
+看	O
+了	O
+是	O
+吧	O
+
+是	O
+的	O
+
+嗯	O
+
+同	O
+学	O
+
+哦	O
+
+哦	O
+
+嗯	O
+
+啊	O
+
+基	O
+本	O
+上	O
+全	O
+天	O
+都	O
+会	O
+录	O
+入	O
+时	O
+就	O
+回	O
+来	O
+了	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+
+那	O
+个	O
+终	O
+极	O
+也	O
+是	O
+我	O
+全	O
+部	O
+删	O
+了	O
+
+对	O
+
+没	O
+有	O
+那	O
+抱	O
+歉	O
+了	O
+
+你	O
+好	O
+
+陈	O
+女	O
+士	O
+商	O
+标	O
+天	O
+那	O
+到	O
+底	O
+发	O
+短	O
+信	O
+
+太	O
+好	O
+了	O
+
+到	O
+3	O
+年	O
+的	O
+时	O
+候	O
+的	O
+
+嗯	O
+
+嗯	O
+
+没	O
+有	O
+了	O
+
+那	O
+
+那	O
+这	O
+个	O
+这	O
+这	O
+锤	O
+子	O
+就	O
+假	O
+的	O
+
+啊	O
+
+再	O
+见	O
+
+哦	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+价	O
+格	O
+方	O
+面	O
+
+你	O
+好	O
+先	O
+生	O
+
+那	O
+不	O
+是	O
+因	O
+为	O
+那	O
+不	O
+是	O
+因	O
+为	O
+她	O
+改	O
+新	O
+卡	O
+嘛	O
+
+徐	O
+波	O
+东	O
+西	O
+
+您	O
+说	O
+什	O
+么	O
+政	O
+策	O
+?	O
+
+还	O
+没	O
+有	O
+
+嗯	O
+
+喂	O
+
+哦	O
+
+哦	O
+
+哦	O
+
+是	O
+
+嗯	O
+
+哎	O
+再	O
+见	O
+
+您	O
+说	O
+
+嗯	O
+嗯	O
+
+哎	O
+再	O
+见	O
+
+哎	O
+
+呃	O
+
+哦	O
+
+昨	O
+天	O
+怎	O
+么	O
+大	O
+学	O
+生	O
+都	O
+很	O
+差	O
+不	O
+多	O
+
+啊	O
+
+呃	O
+
+师	O
+傅	O
+暂	O
+时	O
+先	O
+不	O
+考	O
+虑	O
+买	O
+车	O
+了	O
+
+哎	O
+
+嗯	O
+嗯	O
+
+是	O
+啊	O
+
+嗯	O
+
+嗯	O
+
+嗯	O
+
+6	O
+8	O
+2	O
+1	O
+
+喂	O
+
+上	O
+次	O
+没	O
+有	O
+像	O
+上	O
+次	O
+下	O
+雨	O
+
+嗯	O
+好	O
+好	O
+
+哦	O
+
+做	O
+这	O
+个	O
+中	O
+秋	O
+节	O
+的	O
+一	O
+个	O
+呃	O
+
+哦	O
+嗯	O
+
+哦	O
+
+您	O
+就	O
+走	O
+那	O
+个	O
+呃	O
+
+嗯	O
+嗯	O
+嗯	O
+嗯	O
+
+好	O
+
+嗯	O
+
+哦	O
+
+我	O
+买	O
+的	O
+话	O
+
+呃	O
+
+那	O
+怎	O
+么	O
+钱	O
+没	O
+交	O
+给	O
+你	O
+啊	O
+
+明	O
+天	O
+问	O
+问	O
+别	O
+的	O
+店	O
+吧	O
+
+不	O
+一	O
+定	O
+有	O
+时	O
+间	O
+是	O
+吧	O
+
+就	O
+是	O
+说	O
+的	O
+之	O
+外	O
+
+嗯	O
+
+多	O
+钱	O
+嘛	O
+
+嗯	O
+
+表	O
+明	O
+
+啊	O
+你	O
+你	O
+你	O
+们	O
+就	O
+是	O
+原	O
+来	O
+
+就	O
+是	O
+
+嗯	O
+
+喂	O
+
+落	O
+的	O
+是	O
+吗	O
+?	O
+
+好	O
+好	O
+
+嗯	O
+
+现	O
+在	O
+我	O
+我	O
+我	O
+
+嗯	O
+好	O
+的	O
+
+嗯	O
+
+对	O
+
+对	O
+
+啊	O
+
+嗯	O
+
+梁	O
+启	O
+超	O
+
+广	O
+州	O
+的	O
+是	O
+吧	O
+
+哎	O
+
+好	O
+好	O
+嗯	O
+嗯	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+啊	O
+对	O
+呀	O
+
+名	O
+字	O
+的	O
+烟	O
+
+好	O
+行	O
+
+嗯	O
+嗯	O
+
+哦	O
+
+呃	O
+您	O
+您	O
+您	O
+看	O
+到	O
+网	O
+上	O
+报	O
+价	O
+也	O
+是	O
+我	O
+家	O
+这	O
+边	O
+出	O
+的	O
+
+行	O
+
+哎	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+您	O
+有	O
+时	O
+间	O
+不	O
+?	O
+
+嗯	O
+嗯	O
+
+有	O
+需	O
+求	O
+
+我	O
+做	O
+合	O
+作	O
+差	O
+联	O
+络	O
+哈	O
+
+哎	O
+
+车	O
+价	O
+是	O
+吧	O
+
+喂	O
+
+嗯	O
+
+没	O
+有	O
+
+喂	O
+
+嗯	O
+
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+
+还	O
+有	O
+引	O
+起	O
+订	O
+购	O
+
+喂	O
+你	O
+好	O
+
+我	O
+正	O
+在	O
+看	O
+
+好	O
+
+呃	O
+
+对	O
+
+拜	O
+拜	O
+
+那	O
+您	O
+进	O
+入	O
+我	O
+们	O
+这	O
+这	O
+款	O
+车	O
+是	O
+怎	O
+么	O
+考	O
+虑	O
+的	O
+
+哎	O
+
+运	O
+费	O
+立	O
+即	O
+4	O
+s	O
+店	O
+
+对	O
+对	O
+对	O
+
+莱	O
+阳	O
+比	O
+起	O
+来	O
+
+就	O
+是	O
+你	O
+就	O
+是	O
+想	O
+要	O
+跟	O
+我	O
+们	O
+那	O
+个	O
+展	O
+厅	O
+里	O
+的	O
+那	O
+个	O
+车	O
+
+好	O
+的	O
+那	O
+行	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+我	O
+现	O
+在	O
+不	O
+太	O
+清	O
+楚	O
+
+嗯	O
+
+您	O
+得	O
+告	O
+诉	O
+我	O
+
+嗯	O
+嗯	O
+
+嗯	O
+
+你	O
+好	O
+不	O
+好	O
+意	O
+思	O
+吧	O
+
+哎	O
+哪	O
+位	O
+
+您	O
+这	O
+边	O
+还	O
+是	O
+属	O
+于	O
+新	O
+发	O
+呀	O
+
+不	O
+是	O
+本	O
+人	O
+的	O
+
+学	O
+得	O
+请	O
+问	O
+
+好	O
+啦	O
+
+嗯	O
+行	O
+
+哦	O
+
+然	O
+后	O
+
+好	O
+的	O
+
+哎	O
+
+哦	O
+
+嗯	O
+
+喂	O
+
+嗯	O
+嗯	O
+
+哦	O
+
+啊	O
+
+嗯	O
+
+哎	O
+哎	O
+哎	O
+行	O
+行	O
+行	O
+哎	O
+
+6	O
+2	O
+5	O
+8	O
+4	O
+2	O
+8	O
+
+哎	O
+
+也	O
+就	O
+两	O
+个	O
+配	O
+置	O
+
+然	O
+后	O
+就	O
+除	O
+了	O
+我	O
+给	O
+您	O
+报	O
+的	O
+这	O
+个	O
+车	O
+价	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+对	O
+对	O
+对	O
+对	O
+
+是	O
+不	O
+是	O
+是	O
+不	O
+是	O
+只	O
+能	O
+一	O
+个	O
+人	O
+
+对	O
+对	O
+对	O
+
+优	O
+惠	O
+力	O
+度	O
+
+对	O
+
+鱼	O
+缸	O
+半	O
+分	O
+钟	O
+
+家	O
+里	O
+
+哦	O
+
+对	O
+对	O
+对	O
+
+哎	O
+
+啊	O
+
+好	O
+嘞	O
+哎	O
+拜	O
+拜	O
+
+喂	O
+
+嗯	O
+
+嗯	O
+
+哼	O
+
+呃	O
+
+你	O
+就	O
+说	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+考	O
+虑	O
+来	O
+电	O
+
+对	O
+
+那	O
+叫	O
+裸	O
+车	O
+吗	O
+?	O
+
+哎	O
+
+哦	O
+
+您	O
+
+哦	O
+
+那	O
+您	O
+看	O
+看	O
+
+嗯	O
+
+哎	O
+
+嗯	O
+
+哦	O
+哦	O
+哦	O
+哦	O
+好	O
+行	O
+
+挂	O
+了	O
+
+哦	O
+哦	O
+哦	O
+
+哦	O
+
+哎	O
+
+嗯	O
+
+嗯	O
+
+那	O
+累	O
+
+哎	O
+
+好	O
+
+喂	O
+
+喂	O
+
+喂	O
+
+那	O
+打	O
+电	O
+
+嗯	O
+好	O
+好	O
+
+谢	O
+谢	O
+嗯	O
+
+嗯	O
+
+对	O
+2	O
+0	O
+万	O
+无	O
+他	O
+指	O
+导	O
+价	O
+
+哦	O
+
+还	O
+还	O
+有	O
+什	O
+么	O
+优	O
+惠	O
+吗	O
+
+他	O
+是	O
+就	O
+是	O
+标	O
+配	O
+的	O
+
+嗯	O
+
+嗯	O
+
+是	O
+
+嗯	O
+
+嗯	O
+嗯	O
+
+哎	O
+
+1	O
+6	O
+万	O
+左	O
+右	O
+吧	O
+。	O
+
+好	O
+
+项	O
+目	O
+应	O
+该	O
+我	O
+帮	O
+q	O
+q	O
+哈	O
+
+您	O
+
+2	Y_BEG
+0	Y_MID
+1	Y_MID
+8	Y_MID
+款	Y_END
+呢	O
+?	O
+
+嗯	O
+
+行	O
+行	O
+行	O
+刚	O
+好	O
+微	O
+信	O
+交	O
+过	O
+了	O
+吗	O
+
+嗯	O
+
+对	O
+的	O
+对	O
+的	O
+
+嗯	O
+
+对	O
+给	O
+您	O
+打	O
+电	O
+话	O
+
+喂	O
+
+嗯	O
+
+然	O
+后	O
+是	O
+吧	O
+
+你	O
+现	O
+在	O
+你	O
+现	O
+在	O
+
+优	O
+惠	O
+完	O
+之	O
+后	O
+是	O
+3	O
+0	O
+万	O
+
+嗯	O
+
+没	O
+事	O
+
+哦	O
+
+嗯	O
+嗯	O
+
+嗯	O
+嗯	O
+
+哎	O
+
+嗯	O
+
+好	O
+吧	O
+
+喂	O
+
+满	O
+十	O
+八	O
+杜	O
+瓦	O
+
+来	O
+往	O
+
+我	O
+知	O
+道	O
+
+我	O
+高	O
+铁	O
+的	O
+高	O
+铁	O
+
+嗯	O
+
+哎	O
+
+好	O
+的	O
+
+哦	O
+
+行	O
+好	O
+好	O
+好	O
+
+呃	O
+
+哦	O
+
+喂	O
+
+他	O
+打	O
+了	O
+我	O
+这	O
+边	O
+是	O
+南	O
+京	O
+文	O
+华	O
+英	B_BEG
+菲	B_MID
+尼	B_MID
+迪	B_END
+的	O
+那	O
+个	O
+
+哪	O
+个	O
+是	O
+因	O
+为	O
+你	O
+这	O
+儿	O
+吧	O
+
+哦	O
+
+哦	O
+
+哦	O
+
+嗯	O
+
+哦	O
+
+嗯	O
+
+行	O
+行	O
+行	O
+行	O
+行	O
+好	O
+吧	O
+
+差	O
+不	O
+多	O
+5	O
+万	O
+元	O
+钱	O
+左	O
+右	O
+吧	O
+
+还	O
+是	O
+已	O
+经	O
+买	O
+的	O
+
+买	O
+了	O
+个	O
+雷	B_BEG
+克	B_MID
+萨	B_MID
+斯	B_END
+
+嗯	O
+
+上	O
+面	O
+的	O
+楼	O
+
+嗯	O
+
+对	O
+对	O
+对	O
+
+还	O
+没	O
+有	O
+没	O
+有	O
+
+嗯	O
+
+嗯	O
+
+行	O
+吗	O
+
+就	O
+就	O
+是	O
+维	O
+修	O
+费	O
+
+对	O
+吧	O
+
+好	O
+像	O
+明	O
+天	O
+有	O
+一	O
+款	O
+吧	O
+
+十	O
+年	O
+了	O
+
+好	O
+好	O
+好	O
+
+要	O
+是	O
+有	O
+栏	O
+目	O
+
+因	O
+为	O
+觉	O
+得	O
+他	O
+
+好	O
+的	O
+
+哎	O
+
+嗯	O
+嗯	O
+
+知	O
+道	O
+吧	O
+
+你	O
+要	O
+没	O
+法	O
+a	O
+ 	O
+c	O
+v	O
+
+哦	O
+
+嗯	O
+
+哦	O
+
+哦	O
+
+好	O
+的	O
+影	O
+响	O
+
+类	O
+似	O
+的	O
+类	O
+似	O
+的	O
+那	O
+个	O
+不	O
+是	O
+我	O
+
+好	O
+好	O
+好	O
+好	O
+
+我	O
+具	O
+体	O
+这	O
+是	O
+我	O
+看	O
+过	O
+了	O
+
+听	O
+菜	O
+鸟	O
+
+哎	O
+
+不	O
+需	O

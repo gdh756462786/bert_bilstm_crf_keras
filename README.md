@@ -1,2 +1,2 @@
-# bert_bilstm_crf
-bert层+bilstm模型+crf模型
+# bilstm_crf_keras
+bilstm_crf model for ner
