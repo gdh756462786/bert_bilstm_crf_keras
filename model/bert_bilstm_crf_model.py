@@ -113,8 +113,6 @@ class bert_bilstm_crf_model(object):
 		X, y = test_text
 		input_ids, input_mask, input_type = self._text_process(X)
 		testy = self._label_encoder(y, one_hot=False)
-		print(y[0])
-		print(testy[0])
 		self.model.load_weights(os.path.join(self.saved_models_dir, "bert_bilstm_crf_model.h5"))
 		score = self.model.evaluate(x=[input_ids,input_mask], y=testy, verbose=1)
 		print("the test loss for model: %s" %score[0])
