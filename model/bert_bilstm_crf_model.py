@@ -49,6 +49,7 @@ class bert_bilstm_crf_model(object):
 		self.saved_models_dir = args.saved_models_dir
 		self.layer_dict = [7, 15, 23, 31, 39, 47, 55, 63, 71, 79, 87, 95, 103]
 		self._loader_dict_()
+		self.model = self._model_compile_()
 
 	def _loader_dict_(self):
 		self.vocab_dict = {}
@@ -58,7 +59,7 @@ class bert_bilstm_crf_model(object):
 		tag_dict = pickle.load(open(os.path.join(self.dict_dir, "tag_dict.pl"), 'rb'))
 		self._tag, self._id2tag, self._tag2id = tag_dict
 		return
-
+		
 	def _model_compile_(self):
 		layerN = 12
 		bert_model =load_trained_model_from_checkpoint(
@@ -93,38 +94,37 @@ class bert_bilstm_crf_model(object):
 		X, y = train_text
 		input_ids, input_mask, input_type = self._text_process(X)
 		trainy = self._label_encoder(y, one_hot=False)
-		model = self._model_compile_()
 		callbacks =[
 				ReduceLROnPlateau(),
 				ModelCheckpoint(filepath=os.path.join(self.saved_models_dir, "bert_bilstm_crf_model.h5"), \
 								save_best_only=True)
 			]
-		model.fit(x=[input_ids,input_mask], 
-				y=trainy, 
-				batch_size=self.batch_size, 
-				epochs=self.epochs, 
-				verbose=1, 
-				callbacks=callbacks,
-				validation_split=0.1,  
-				shuffle=True)
+		self.model.fit(x=[input_ids,input_mask], 
+					y=trainy, 
+					batch_size=self.batch_size, 
+					epochs=self.epochs, 
+					verbose=1, 
+					callbacks=callbacks,
+					validation_split=0.1,  
+					shuffle=True)
 		return
 
 	def _model_test_(self, test_text):
 		X, y = test_text
 		input_ids, input_mask, input_type = self._text_process(X)
 		testy = self._label_encoder(y, one_hot=False)
-		model = self._model_compile_()
-		model.load_weights(os.path.join(self.saved_models_dir, "bert_bilstm_crf_model.h5"))
-		score = model.evaluate(x=[input_ids,input_mask], y=testy, verbose=1)
+		print(y[0])
+		print(testy[0])
+		self.model.load_weights(os.path.join(self.saved_models_dir, "bert_bilstm_crf_model.h5"))
+		score = self.model.evaluate(x=[input_ids,input_mask], y=testy, verbose=1)
 		print("the test loss for model: %s" %score[0])
 		print("the test accuracy for model: %s" %score[1])
 		return
-
+		
 	def _model_predict_(self, talk):
 		input_ids, input_mask, input_type = self._text_process([talk])
-		model = self._model_compile_()
-		model.load_weights(os.path.join(self.saved_models_dir, "bert_bilstm_crf_model.h5"))
-		tag = model.predict([input_ids,input_mask])[0][:len(talk)]
+		self.model.load_weights(os.path.join(self.saved_models_dir, "bert_bilstm_crf_model.h5"))
+		tag = self.model.predict([input_ids,input_mask])[0][1:len(talk)+1]
 		tag = self._id2tag_func(self._label_decoder(tag))
 		return tag
 
@@ -135,7 +135,7 @@ class bert_bilstm_crf_model(object):
 		input_type = [i[1] for i in encoder]
 		input_mask = [[0 if l==0 else 1 for l in i] for i in input_ids]
 		return (input_ids,input_mask,input_type)
-
+		
 	def _char2id_func(self, senl):
 		return [self._char2id.get(s,1) for s in senl]
 
@@ -146,13 +146,13 @@ class bert_bilstm_crf_model(object):
 		return [self._tag2id[t] for t in tagl]
 
 	def _id2tag_func(self, ids):
-		return [self._id2tag.get(i,"O") for i in ids]
+		return [self._id2tag.get(i,"U") for i in ids]
 		
 	def _label_decoder(self, tag):
 		return [np.argmax(ids) for ids in tag]
 
 	def _label_encoder(self, labels, one_hot=False):
-		tags = [[self._tag2id[t] for t in l] for l in labels]
+		tags = [[0]+[self._tag2id[t] for t in l]+[0] for l in labels]
 		padding_tag = pad_sequences(tags, self.max_seq_len, padding="post", truncating="post")
 		if one_hot == True:
 			res_tag = np.eye(len(self._tag), dtype='float32')[padding_tag]
